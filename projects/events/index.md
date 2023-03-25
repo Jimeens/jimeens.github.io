@@ -1,3 +1,7 @@
 # Events
 
-Here you may find a few of the events I've helped organized or have been working on throughout my years in Physics. Most of these (actually, while I'm writing this, all of them) are in Portuguese and some are in English (not really). I chose to leave the descriptions in agreement with the project's language. Notice some titles are hyperlinks to the events' websites. Notice also that, unfortunately, some of the websites were hosted on a server I no longer have access to, and hence there might be a few dead links around here.
+Here you can find some of the events I have worked on throughout my years in Physics. Please note that the descriptions are only available in English, but the events were held in Portuguese.
+
+## [Summer Mini-course at IFUSP](http://portal.if.usp.br/pesquisa/pt-br/node/2234)
+
+During the summer break, from February 6th, 2023 to February 10th, 2023, a summer mini-course with several interesting lectures on physics areas ranging from the quantum structure of matter to cosmology was scheduled. In addition to the lectures, 6 workshops/mini-courses on specific topics were proposed. My choice was the course *Path Integrals: from quantum mechanics to statistical mechanics*, taught by Ph.D. Eric Andrade.
