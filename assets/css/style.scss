@@ -69,6 +69,7 @@ a:hover {
 
 .page__content {
   text-align: justify;
+  max-width: 1760pc;
 }
 
 img {
@@ -193,11 +194,6 @@ nav {
 .dropdown:hover .dropdown-content {display: block;}
 
 .dropdown:hover .dropbtn {background-color: #A158F1; color: #101010} 
-
-.wrapper {
-  max-width: 1760px;
-  margin: 0 auto;
-}
 
 #Menu {
 	text-align: center;
