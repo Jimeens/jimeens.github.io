@@ -1,6 +1,6 @@
 # LaTeX Templates
 
-I love write in LaTeX. Although I am hesitant to share all of my templates due to my attachment to them, a few may be featured here. It is worth noting that the titles of the projects are hyperlinks directing you to where the code is available.
+I love write in LaTeX. Although I am hesitant to share all of my templates due to my attachment to them, a few may be featured here. It is worth noting that the titles of the projects are hyperlinks directing you to Overleaf, where the code is available.
 
 ## [Homework Solutions Template](https://www.overleaf.com/latex/templates/a-soft-template-for-homework-solutions/gsbwqcqkyyzt)
 
