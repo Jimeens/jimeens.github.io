@@ -194,6 +194,10 @@ nav {
 
 .dropdown:hover .dropbtn {background-color: #A158F1; color: #101010} 
 
+.wrapper {
+  max-width: 1760px;
+  margin: 0 auto;
+}
 
 #Menu {
 	text-align: center;
@@ -309,9 +313,4 @@ section #title .credits {
   height: 100%; /* altura do contêiner */
   padding-left: 10px; /* espaço entre o texto e a imagem */
   margin-top: 10px;
-}
-
-.wrapper {
-  max-width: 1760px;
-  margin: 0 auto;
 }
