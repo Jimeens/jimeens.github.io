@@ -10,4 +10,4 @@ This is my lecture notes for the course of [*Quantum Mechanics I*](https://uspdi
 
 Here, I will be sharing my exercise solutions for the homework assignments I had in my [*Fluid Mechanics*](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4300324) course, taught by Ph.D. Frédérique Marie Brigitte Sylvie Grassi at the University of São Paulo’s [*Institute of Physics*](https://portal.if.usp.br/) (IFUSP) during the first semester of 2023. Since Professor Grassi has personal notes that I found helpful throughout the semester, I did not take additional lecture notes for this course.
 
-[Homework I](https://jimeens.github.io/mynotes/tree/Fluid%20Mechanics/Homework%201.pdf)
+[Homework I](https://jimeens.github.io/tree/mynotes/Fluid%20Mechanics/Homework%201.pdf)
