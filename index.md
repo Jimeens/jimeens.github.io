@@ -17,7 +17,7 @@ Welcome to my personal website! Here you will find a collection of information a
                 <li class="carousel__slide">
                     <figure>
                         <div>
-                            <img src="https://jimeens.github.io/blob/main/HWT/1.jpg" alt="">
+                            <img src="https://jimeens.github.io/HWT/1.jpg" alt="">
                         </div>
                         <figcaption>
                             Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -28,7 +28,7 @@ Welcome to my personal website! Here you will find a collection of information a
                 <li class="carousel__slide">
                     <figure>
                         <div>
-                            <img src="https://jimeens.github.io/blob/main/HWT/2.jpg" alt="">
+                            <img src="https://jimeens.github.io/HWT/2.jpg" alt="">
                         </div>
                         <figcaption>
                             Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -39,7 +39,7 @@ Welcome to my personal website! Here you will find a collection of information a
                 <li class="carousel__slide">
                     <figure>
                         <div>
-                            <img src="https://jimeens.github.io/blob/main/HWT/3.jpg" alt="">
+                            <img src="https://jimeens.github.io/HWT/3.jpg" alt="">
                         </div>
                         <figcaption>
                             Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -50,7 +50,7 @@ Welcome to my personal website! Here you will find a collection of information a
                 <li class="carousel__slide">
                     <figure>
                         <div>
-                            <img src="jimeens.github.io/blob/main/HWT/4.jpg" alt="">
+                            <img src="jimeens.github.io/HWT/4.jpg" alt="">
                         </div>
                         <figcaption>
                             Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -61,7 +61,7 @@ Welcome to my personal website! Here you will find a collection of information a
                 <li class="carousel__slide">
                     <figure>
                         <div>
-                            <img src="https://jimeens.github.io/blob/main/HWT/5.jpg" alt="">
+                            <img src="https://jimeens.github.io/HWT/5.jpg" alt="">
                         </div>
                         <figcaption>
                             Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -72,7 +72,7 @@ Welcome to my personal website! Here you will find a collection of information a
                 <li class="carousel__slide">
                     <figure>
                         <div>
-                            <img src="https://jimeens.github.io/blob/main/HWT/6.jpg" alt="">
+                            <img src="https://jimeens.github.io/HWT/6.jpg" alt="">
                         </div>
                         <figcaption>
                             Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -84,7 +84,7 @@ Welcome to my personal website! Here you will find a collection of information a
                 <li class="carousel__slide">
                     <figure>
                         <div>
-                            <img src="https://jimeens.github.io/blob/main/HWT/7.jpg" alt="">
+                            <img src="https://jimeens.github.io/HWT/7.jpg" alt="">
                         </div>
                         <figcaption>
                             Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -96,7 +96,7 @@ Welcome to my personal website! Here you will find a collection of information a
                 <li class="carousel__slide">
                     <figure>
                         <div>
-                            <img src="https://jimeens.github.io/blob/main/HWT/8.jpg" alt="">
+                            <img src="https://jimeens.github.io/HWT/8.jpg" alt="">
                         </div>
                         <figcaption>
                             Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -107,28 +107,28 @@ Welcome to my personal website! Here you will find a collection of information a
             </ul>    
             <ul class="carousel__thumbnails">
                 <li>
-                    <label for="slide-1"><img src="https://jimeens.github.io/blob/main/HWT/1.jpg" alt=""></label>
+                    <label for="slide-1"><img src="https://jimeens.github.io/HWT/1.jpg" alt=""></label>
                 </li>
                 <li>
-                    <label for="slide-2"><img src="https://jimeens.github.io/blob/main/HWT/2.jpg" alt=""></label>
+                    <label for="slide-2"><img src="https://jimeens.github.io/HWT/2.jpg" alt=""></label>
                 </li>
                 <li>
-                    <label for="slide-3"><img src="https://jimeens.github.io/blob/main/HWT/3.jpg" alt=""></label>
+                    <label for="slide-3"><img src="https://jimeens.github.io/HWT/3.jpg" alt=""></label>
                 </li>
                 <li>
-                    <label for="slide-4"><img src="https://jimeens.github.io/blob/main/HWT/4.jpg" alt=""></label>
+                    <label for="slide-4"><img src="https://jimeens.github.io/HWT/4.jpg" alt=""></label>
                 </li>
                 <li>
-                    <label for="slide-5"><img src="https://jimeens.github.io/blob/main/HWT/5.jpg" alt=""></label>
+                    <label for="slide-5"><img src="https://jimeens.github.io/HWT/5.jpg" alt=""></label>
                 </li>
                 <li>
-                    <label for="slide-6"><img src="https://jimeens.github.io/blob/main/HWT/6.jpg" alt=""></label>
+                    <label for="slide-6"><img src="https://jimeens.github.io/HWT/6.jpg" alt=""></label>
                 </li>
                 <li>
-                    <label for="slide-7"><img src="https://jimeens.github.io/blob/main/HWT/7.jpg" alt=""></label>
+                    <label for="slide-7"><img src="https://jimeens.github.io/HWT/7.jpg" alt=""></label>
                 </li>
                 <li>
-                    <label for="slide-8"><img src="https://jimeens.github.io/blob/main/HWT/8.jpg" alt=""></label>
+                    <label for="slide-8"><img src="https://jimeens.github.io/HWT/8.jpg" alt=""></label>
                 </li>
             </ul>
         </div>
