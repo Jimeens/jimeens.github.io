@@ -220,8 +220,7 @@ Welcome to my personal website! Here you will find a collection of information a
         position: relative;
         display: block;
         flex: 1 0 100%;
-        width: 100%;
-        height: 100%;
+        height: 300px;
         overflow: hidden;
         transition: all 300ms ease-out;
         vertical-align: top;
@@ -300,8 +299,7 @@ Welcome to my personal website! Here you will find a collection of information a
 
         img {
             display: block;
-            width: 100%;
-            height: 100%;
+            height: 300px;
             object-fit: cover;
         }
     }
