@@ -11,13 +11,11 @@ Welcome to my personal website! Here you will find a collection of information a
             <input type="radio" name="slides" id="slide-4">
             <input type="radio" name="slides" id="slide-5">
             <input type="radio" name="slides" id="slide-6">
-            <input type="radio" name="slides" id="slide-7">
-            <input type="radio" name="slides" id="slide-8">
             <ul class="carousel__slides">
                 <li class="carousel__slide">
                     <figure>
                         <div>
-                            <img src="https://jimeens.github.io/HWT/1.jpg" alt="">
+                            <img src="https://picsum.photos/id/1041/800/450" alt="">
                         </div>
                         <figcaption>
                             Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -28,107 +26,77 @@ Welcome to my personal website! Here you will find a collection of information a
                 <li class="carousel__slide">
                     <figure>
                         <div>
-                            <img src="https://jimeens.github.io/HWT/2.jpg" alt="">
+                            <img src="https://picsum.photos/id/1043/800/450" alt="">
                         </div>
                         <figcaption>
                             Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                            <span class="credit">Photo: Christian Joudrey</span>                            
+                            <span class="credit">Photo: Christian Joudrey</span>
                         </figcaption>
                     </figure>
                 </li>
                 <li class="carousel__slide">
                     <figure>
                         <div>
-                            <img src="https://jimeens.github.io/HWT/3.jpg" alt="">
+                            <img src="https://picsum.photos/id/1044/800/450" alt="">
                         </div>
                         <figcaption>
                             Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                            <span class="credit">Photo: Steve Carter</span>                            
+                            <span class="credit">Photo: Steve Carter</span>
                         </figcaption>
                     </figure>
                 </li>
                 <li class="carousel__slide">
                     <figure>
                         <div>
-                            <img src="jimeens.github.io/HWT/4.jpg" alt="">
+                            <img src="https://picsum.photos/id/1045/800/450" alt="">
                         </div>
                         <figcaption>
                             Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                            <span class="credit">Photo: Aleksandra Boguslawska</span>                            
+                            <span class="credit">Photo: Aleksandra Boguslawska</span>
                         </figcaption>
                     </figure>
                 </li>
                 <li class="carousel__slide">
                     <figure>
                         <div>
-                            <img src="https://jimeens.github.io/HWT/5.jpg" alt="">
+                            <img src="https://picsum.photos/id/1049/800/450" alt="">
                         </div>
                         <figcaption>
                             Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                            <span class="credit">Photo: Rosan Harmens</span>                            
+                            <span class="credit">Photo: Rosan Harmens</span>
                         </figcaption>
                     </figure>
                 </li>
                 <li class="carousel__slide">
                     <figure>
                         <div>
-                            <img src="https://jimeens.github.io/HWT/6.jpg" alt="">
+                            <img src="https://picsum.photos/id/1052/800/450" alt="">
                         </div>
                         <figcaption>
                             Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                            <span class="credit">Photo: Annie Spratt</span>                            
+                            <span class="credit">Photo: Annie Spratt</span>
                         </figcaption>
                     </figure>
                 </li>
-                </li>
-                <li class="carousel__slide">
-                    <figure>
-                        <div>
-                            <img src="https://jimeens.github.io/HWT/7.jpg" alt="">
-                        </div>
-                        <figcaption>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                            <span class="credit">Photo: Annie Spratt</span>                            
-                        </figcaption>
-                    </figure>
-                </li>
-                </li>
-                <li class="carousel__slide">
-                    <figure>
-                        <div>
-                            <img src="https://jimeens.github.io/HWT/8.jpg" alt="">
-                        </div>
-                        <figcaption>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                            <span class="credit">Photo: Annie Spratt</span>                            
-                        </figcaption>
-                    </figure>
-                </li>
-            </ul>    
+            </ul>
             <ul class="carousel__thumbnails">
                 <li>
-                    <label for="slide-1"><img src="https://jimeens.github.io/HWT/1.jpg" alt=""></label>
+                    <label for="slide-1"><img src="https://picsum.photos/id/1041/150/150" alt=""></label>
                 </li>
                 <li>
-                    <label for="slide-2"><img src="https://jimeens.github.io/HWT/2.jpg" alt=""></label>
+                    <label for="slide-2"><img src="https://picsum.photos/id/1043/150/150" alt=""></label>
                 </li>
                 <li>
-                    <label for="slide-3"><img src="https://jimeens.github.io/HWT/3.jpg" alt=""></label>
+                    <label for="slide-3"><img src="https://picsum.photos/id/1044/150/150" alt=""></label>
                 </li>
                 <li>
-                    <label for="slide-4"><img src="https://jimeens.github.io/HWT/4.jpg" alt=""></label>
+                    <label for="slide-4"><img src="https://picsum.photos/id/1045/150/150" alt=""></label>
                 </li>
                 <li>
-                    <label for="slide-5"><img src="https://jimeens.github.io/HWT/5.jpg" alt=""></label>
+                    <label for="slide-5"><img src="https://picsum.photos/id/1049/150/150" alt=""></label>
                 </li>
                 <li>
-                    <label for="slide-6"><img src="https://jimeens.github.io/HWT/6.jpg" alt=""></label>
-                </li>
-                <li>
-                    <label for="slide-7"><img src="https://jimeens.github.io/HWT/7.jpg" alt=""></label>
-                </li>
-                <li>
-                    <label for="slide-8"><img src="https://jimeens.github.io/HWT/8.jpg" alt=""></label>
+                    <label for="slide-6"><img src="https://picsum.photos/id/1052/150/150" alt=""></label>
                 </li>
             </ul>
         </div>
@@ -136,13 +104,13 @@ Welcome to my personal website! Here you will find a collection of information a
 </section>
 
 <style>
-    @mixin aspect-ratio($width, $height) {
+      @mixin aspect-ratio($width, $height) {
       position: relative;
 
       &:before {
         display: block;
         content: "";
-        width: 300px;
+        width: 100%;
         padding-top: ($height / $width) * 100%;
       }
 
@@ -152,7 +120,8 @@ Welcome to my personal website! Here you will find a collection of information a
             left: 0;
             right: 0;
             bottom: 0;
-            height: 100px;
+            width: 100%;
+            height: 100%;
       }
     }
 
@@ -166,7 +135,7 @@ Welcome to my personal website! Here you will find a collection of information a
     .container {
         max-width: 1044px;
         margin: 0 auto;
-        padding: 0 0px;
+        padding: 0 20px;
     }
 
     .carousel {
@@ -184,9 +153,7 @@ Welcome to my personal website! Here you will find a collection of information a
             overflow: hidden;
             padding: 0;
             position: absolute;
-            
-            &:nth-of-type(8):checked ~ .carousel__slides .carousel__slide:first-of-type { margin-left: -700%; }
-            &:nth-of-type(7):checked ~ .carousel__slides .carousel__slide:first-of-type { margin-left: -600%; }
+
             &:nth-of-type(6):checked ~ .carousel__slides .carousel__slide:first-of-type { margin-left: -500%; }
             &:nth-of-type(5):checked ~ .carousel__slides .carousel__slide:first-of-type { margin-left: -400%; }
             &:nth-of-type(4):checked ~ .carousel__slides .carousel__slide:first-of-type { margin-left: -300%; }
@@ -200,8 +167,6 @@ Welcome to my personal website! Here you will find a collection of information a
             &:nth-of-type(4):checked ~ .carousel__thumbnails li:nth-of-type(4) { box-shadow: 0px 0px 0px 5px rgba(0,0,255,0.5); }
             &:nth-of-type(5):checked ~ .carousel__thumbnails li:nth-of-type(5) { box-shadow: 0px 0px 0px 5px rgba(0,0,255,0.5); }
             &:nth-of-type(6):checked ~ .carousel__thumbnails li:nth-of-type(6) { box-shadow: 0px 0px 0px 5px rgba(0,0,255,0.5); }
-            &:nth-of-type(7):checked ~ .carousel__thumbnails li:nth-of-type(7) { box-shadow: 0px 0px 0px 5px rgba(0,0,255,0.5); }
-            &:nth-of-type(8):checked ~ .carousel__thumbnails li:nth-of-type(8) { box-shadow: 0px 0px 0px 5px rgba(0,0,255,0.5); }
         }
     }
 
@@ -220,7 +185,8 @@ Welcome to my personal website! Here you will find a collection of information a
         position: relative;
         display: block;
         flex: 1 0 100%;
-        height: 300px;
+        width: 100%;
+        height: 100%;
         overflow: hidden;
         transition: all 300ms ease-out;
         vertical-align: top;
@@ -299,7 +265,8 @@ Welcome to my personal website! Here you will find a collection of information a
 
         img {
             display: block;
-            height: 300px;
+            width: 100%;
+            height: 100%;
             object-fit: cover;
         }
     }
