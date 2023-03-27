@@ -144,7 +144,7 @@ Welcome to my personal website! Here you will find a collection of information a
         display: block;
         content: "";
         width: 100%;
-        padding-top: ($height / $width) * 100%;
+        padding-top: ($height / $width) * 300px;
       }
 
       > img {
@@ -167,7 +167,7 @@ Welcome to my personal website! Here you will find a collection of information a
     .container {
         max-width: 1044px;
         margin: 0 auto;
-        padding: 0 20px;
+        padding: 0 0px;
     }
 
     .carousel {
