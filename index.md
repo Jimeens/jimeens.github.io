@@ -6,13 +6,13 @@ Welcome to my personal website! Here you will find a collection of information a
 ## Everything
 
 <div style="display: inline-block; margin-left= 10px; margin-right= 10px;">
-  <img src="coverpage_homework_solutions.jpeg" alt="imagem 1" style="float:left; padding-right:10px; width: 190px" href="https://www.overleaf.com/latex/templates/a-soft-template-for-homework-solutions/gsbwqcqkyyzt">
+  <a href="https://www.overleaf.com/latex/templates/a-soft-template-for-homework-solutions/gsbwqcqkyyzt"><img src="coverpage_homework_solutions.jpeg" alt="imagem 1" style="float:left; padding-right:10px; width: 190px"></a>
   <figcaption style="display: block">Homework Solutions 
     <br><small><a href="https://jimeens.github.io/projects/latex/">LaTeX Template</a></small>
   </figcaption>
 </div>
 <div style="display: inline-block; margin-left= 10px; margin-right= 10px;">
-  <img src="coverpage_homework_solutions.jpeg" alt="imagem 2" style="float:left; padding-right:10px; width: 190px" href="https://jimeens.github.io/mynotes/Quantum%20Mechanics%20I.pdf">
+  <a href="https://jimeens.github.io/mynotes/Quantum%20Mechanics%20I.pdf"><img src="coverpage_homework_solutions.jpeg" alt="imagem 2" style="float:left; padding-right:10px; width: 190px"></a>
   <figcaption style="display: block">Quantum Mechanics I
     <br><small><a href="https://jimeens.github.io/projects/notes/">Lecture notes</a></small>
   </figcaption>
