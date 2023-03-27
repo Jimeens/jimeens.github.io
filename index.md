@@ -103,8 +103,6 @@ Welcome to my personal website! Here you will find a collection of information a
     </div>
 </section>
 <style>
-      position: relative;
-
       &:before {
         display: block;
         content: "";
