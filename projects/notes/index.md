@@ -22,10 +22,13 @@ Here, I will be sharing my exercise solutions for the homework assignments I had
 ❖ Homework IV
 ❖ Homework V
 ❖ Homework VI ❖
+
 ❖ Homework VII
 ❖ Homework VIII
 ❖ Homework IX
 ❖ Homework X
+❖ Homework XI
+❖ Homework XII ❖
 
 # 2022
 <div>
