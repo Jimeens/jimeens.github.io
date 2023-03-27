@@ -5,15 +5,15 @@ Welcome to my personal website! Here you will find a collection of information a
 
 ## Everything
 
-<figure style="display: inline-block; margin-right: 10px; margin-left: 10px;">
+<figure>
   <img src="coverpage_homework_solutions.jpeg" alt="imagem 1" style="float:left; padding-right:10px; width: 180px">
   <figcaption>Homework Solutions Template</figcaption>
 </figure>
-<figure style="display: inline-block; margin-right: 10px; margin-left: 10px;">
+<figure>
   <img src="coverpage_homework_solutions.jpeg" alt="imagem 2" style="float:left; padding-right:10px; width: 180px">
   <figcaption>Quantum Mechanics I</figcaption>
 </figure>
-<figure style="display: inline-block; margin-right: 10px; margin-left: 10px;">
+<figure>
   <img src="coverpage_homework_solutions.jpeg" alt="imagem 2" style="float:left; padding-right:10px; width: 180px">
   <figcaption>Quantum Mechanics II</figcaption>
 </figure>
