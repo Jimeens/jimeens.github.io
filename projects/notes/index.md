@@ -21,7 +21,7 @@ Here, I will be sharing my exercise solutions for the homework assignments I had
 ❖ Homework III
 ❖ Homework IV
 ❖ Homework V
-❖ Homework VI
+❖ Homework VI ❖
 ❖ Homework VII
 ❖ Homework VIII
 ❖ Homework IX
