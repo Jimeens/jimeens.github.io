@@ -5,15 +5,24 @@ Welcome to my personal website! Here you will find a collection of information a
 
 ## Everything
 
-<div style="display: inline-block; margin-right: 10px; margin-left: 10px; horizontal-align: center">
+<figure style="display: inline-block; margin-right: 10px; margin-left: 10px;">
   <img src="coverpage_homework_solutions.jpeg" alt="imagem 1" style="float:left; padding-right:10px; width: 180px">
-  <p>Homework Solutions Template</p>
-</div>
-<div style="display: inline-block; margin-right: 10px; margin-left: 10px; horizontal-align: center">
+  <figcaption>Homework Solutions Template</figcaption>
+</figure>
+<figure style="display: inline-block; margin-right: 10px; margin-left: 10px;">
   <img src="coverpage_homework_solutions.jpeg" alt="imagem 2" style="float:left; padding-right:10px; width: 180px">
-  <p>Quantum Mechanics I</p>
-</div>
-<div style="display: inline-block; margin-right: 10px; margin-left: 10px; horizontal-align: center">
+  <figcaption>Quantum Mechanics I</figcaption>
+</figure>
+<figure style="display: inline-block; margin-right: 10px; margin-left: 10px;">
   <img src="coverpage_homework_solutions.jpeg" alt="imagem 2" style="float:left; padding-right:10px; width: 180px">
-  <p>Quantum Mechanics II</p>
-</div>
+  <figcaption>Quantum Mechanics II</figcaption>
+</figure>
+<figure>
+  <script>
+    document.createElement("figure");
+    document.createElement("figcaption");
+  </script>
+  <style> 
+    figure, figcaption { display: block; }
+  </style> 
+</figure>
