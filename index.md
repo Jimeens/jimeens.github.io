@@ -3,7 +3,7 @@
 Welcome to my personal website! Here you will find a collection of information and documents related to my studies and career in physics, starting from my early days as an undergraduate student at. Additionally, you will find links to  interesting websites I recommend and pages of researchers I admire.
 
 
-<section>
+<!-- <section>
     <div class="carousel">
       <div class="carousel-inner">
         <!-- Bloco da imagem 1 -->
@@ -246,3 +246,4 @@ Welcome to my personal website! Here you will find a collection of information a
       -1px 0px 2px rgba(255, 255, 255, 0);
   }
 </style>
+ -->
