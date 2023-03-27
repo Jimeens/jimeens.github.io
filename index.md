@@ -6,14 +6,14 @@ Welcome to my personal website! Here you will find a collection of information a
 ## Everything
 
 <div style="display: inline-block; margin-left= 10px; margin-right= 10px;">
-  <img src="coverpage_homework_solutions.jpeg" alt="imagem 1" style="float:left; padding-right:10px; width: 180px">
+  <img src="coverpage_homework_solutions.jpeg" alt="imagem 1" style="float:left; padding-right:10px; width: 190px">
   <figcaption>Homework Solutions Template</figcaption>
 </div>
 <div style="display: inline-block; margin-left= 10px; margin-right= 10px;">
-  <img src="coverpage_homework_solutions.jpeg" alt="imagem 2" style="float:left; padding-right:10px; width: 180px">
+  <img src="coverpage_homework_solutions.jpeg" alt="imagem 2" style="float:left; padding-right:10px; width: 190px">
   <figcaption>Quantum Mechanics I</figcaption>
 </div>
 <div style="display: inline-block; margin-left= 10px; margin-right= 10px;">
-  <img src="coverpage_homework_solutions.jpeg" alt="imagem 2" style="float:left; padding-right:10px; width: 180px">
+  <img src="coverpage_homework_solutions.jpeg" alt="imagem 2" style="float:left; padding-right:10px; width: 190px">
   <figcaption>Quantum Mechanics II</figcaption>
 </div>
