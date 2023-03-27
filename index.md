@@ -7,22 +7,19 @@ Welcome to my personal website! Here you will find a collection of information a
 
 <div style="display: inline-block; margin-left= 10px; margin-right= 10px;">
   <img src="coverpage_homework_solutions.jpeg" alt="imagem 1" style="float:left; padding-right:10px; width: 190px">
-  <figcaption style="display: block">
-    <br>Homework Solutions 
+  <figcaption style="display: block">Homework Solutions 
     <br><small><a href="https://jimeens.github.io/projects/latex/">LaTeX Template</a></small>
   </figcaption>
 </div>
 <div style="display: inline-block; margin-left= 10px; margin-right= 10px;">
   <img src="coverpage_homework_solutions.jpeg" alt="imagem 2" style="float:left; padding-right:10px; width: 190px">
-  <figcaption style="display: block">
-    <br>Quantum Mechanics I
+  <figcaption style="display: block">Quantum Mechanics I
     <br><small><a href="https://jimeens.github.io/projects/notes/">Lecture notes</a></small>
   </figcaption>
 </div>
 <div style="display: inline-block; margin-left= 10px; margin-right= 10px;">
   <img src="coverpage_homework_solutions.jpeg" alt="imagem 2" style="float:left; padding-right:10px; width: 190px">
-  <figcaption style="display: block">
-    <br>Quantum Mechanics II
+  <figcaption style="display: block">Quantum Mechanics II
     <br><small><a href="https://jimeens.github.io/projects/notes/">Lecture notes</a></small>
   </figcaption>
 </div>
