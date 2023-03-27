@@ -267,7 +267,7 @@ Welcome to my personal website! Here you will find a collection of information a
         }
 </style>
  -->
- <div class="carousel">
+<div class="carousel">
   <div class="carousel-inner">
     <!-- Bloco da imagem 1 -->
     <input
@@ -343,6 +343,8 @@ Welcome to my personal website! Here you will find a collection of information a
 </div>
 
 <style>
+  position: relative;
+    
   .carousel {
     position: relative;
     box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.64);
