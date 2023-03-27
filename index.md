@@ -3,7 +3,7 @@
 Welcome to my personal website! Here you will find a collection of information and documents related to my studies and career in physics, starting from my early days as an undergraduate student at. Additionally, you will find links to  interesting websites I recommend and pages of researchers I admire.
 
 <div class="container">
-    <link rel="stylesheet" href="../assets/css/carousel.scss">    
+    <link rel="stylesheet" href="../assets/css/carousel.css">    
     <div class="carousel">
         <input type="radio" name="slides" checked="checked" id="slide-1">
         <input type="radio" name="slides" id="slide-2">
