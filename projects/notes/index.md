@@ -2,7 +2,7 @@
 
 Here you can find a collection of my study documents, including lecture notes I've written for courses, study notebooks, and some exercise solutions. Some are in English and some in Portuguese, with titles hyperlinked to corresponding PDF files.
 
-#2023
+# 2023
 <div>
   <hr>
 </div>
