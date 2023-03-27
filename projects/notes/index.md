@@ -16,29 +16,12 @@ This is my lecture notes for the course of [*Quantum Mechanics II*](https://uspd
 
 Here, I will be sharing my exercise solutions for the homework assignments I had in my [*Fluid Mechanics*](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4300324) course, taught by Ph.D. Frédérique Marie Brigitte Sylvie Grassi at the University of São Paulo’s [*Institute of Physics*](https://portal.if.usp.br/) (IFUSP) during the first semester of 2023. Since Professor Grassi has personal notes that I found helpful throughout the semester, I did not take additional lecture notes for this course.
 
-❖ [Homework I](https://jimeens.github.io/mynotes/Fluid%20Mechanics/Homework%201.pdf)
-
-❖ Homework II
-
-❖ Homework III
-
-❖ Homework IV
-
-❖ Homework V
-
-❖ Homework VI 
-
-❖ Homework VII
-
-❖ Homework VIII
-
-❖ Homework IX
-
-❖ Homework X
-
-❖ Homework XI
-
-❖ Homework XII 
+<div style="display: inline-block; margin-left= 10px; margin-right= 10px;">
+  <a href="https://jimeens.github.io/mynotes/Fluid%20Mechanics/Homework%201.pdf">❖ Homework I ❖</a>
+</div>
+<div style="display: inline-block; margin-left= 10px; margin-right= 10px;">
+  <a> Homework II</a>
+</div>
 
 # 2022
 <div>
