@@ -142,8 +142,8 @@ Welcome to my personal website! Here you will find a collection of information a
       &:before {
         display: block;
         content: "";
-        width: 100%;
-        padding-top: ($height / $width) * 300px;
+        width: 300px;
+        padding-top: ($height / $width) * 100%;
       }
 
       > img {
@@ -152,7 +152,7 @@ Welcome to my personal website! Here you will find a collection of information a
             left: 0;
             right: 0;
             bottom: 0;
-            height: 300px;
+            height: 100px;
       }
     }
 
