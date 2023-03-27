@@ -5,7 +5,7 @@ Welcome to my personal website! Here you will find a collection of information a
 
 ## Everything
 
-<div>
+<section>
   <div>
     <img src="coverpage_homework_solutions.jpeg" alt="imagem 1" style="float:left; padding-right:10px; width: 180px">
     <p>Legenda 1</p>
@@ -25,4 +25,4 @@ Welcome to my personal website! Here you will find a collection of information a
       margin-left: 10px;
     }
   </style>
-</div>
+</section>
