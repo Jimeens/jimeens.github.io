@@ -6,21 +6,23 @@ Welcome to my personal website! Here you will find a collection of information a
 ## Everything
 
 <div>
-  <img src="coverpage_homework_solutions.jpeg" alt="imagem 1" style="float:left; padding-right:10px; width: 180px">
-  <p>Legenda 1</p>
+  <div>
+    <img src="coverpage_homework_solutions.jpeg" alt="imagem 1" style="float:left; padding-right:10px; width: 180px">
+    <p>Legenda 1</p>
+  </div>
+  <div>
+    <img src="coverpage_homework_solutions.jpeg" alt="imagem 2" style="float:left; padding-right:10px; width: 180px">
+    <p>Legends 2</p>
+  </div>
+  <div>
+    <img src="coverpage_homework_solutions.jpeg" alt="imagem 2" style="float:left; padding-right:10px; width: 180px">
+    <p>Legends 3</p>
+  </div>
+  <style>
+    div {
+      display: inline-block;
+      margin-right: 10px;
+      margin-left: 10px;
+    }
+  </style>
 </div>
-<div>
-  <img src="coverpage_homework_solutions.jpeg" alt="imagem 2" style="float:left; padding-right:10px; width: 180px">
-  <p>Legends 2</p>
-</div>
-<div>
-  <img src="coverpage_homework_solutions.jpeg" alt="imagem 2" style="float:left; padding-right:10px; width: 180px">
-  <p>Legends 3</p>
-</div>
-<style>
-  div {
-    display: inline-block;
-    margin-right: 10px;
-    margin-left: 10px;
-  }
-</style>
