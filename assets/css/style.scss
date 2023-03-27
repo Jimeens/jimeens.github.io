@@ -69,7 +69,7 @@ a:hover {
 
 .page__content {
   text-align: justify;
-  max-width: 1760px;
+  max-width: 100%;
 }
 
 img {
@@ -227,7 +227,7 @@ nav {
 
 body {
  padding:0px 0 20px 0px;
- width: 100%;
+ max-width: 100%;
  margin: auto;
  font:14px/1.5 "MontserratRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
  color:#f0e7d5;
