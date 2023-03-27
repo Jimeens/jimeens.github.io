@@ -5,7 +5,7 @@ Welcome to my personal website! Here you will find a collection of information a
 
 ## Everything
 
-<div style="display: inline-block; margin-right: 10px; margin-left: 10px; align: center">
+<div style="display: inline-block; margin-right: 10px; margin-left: 10px; horizontal-align: middle">
   <img src="coverpage_homework_solutions.jpeg" alt="imagem 1" style="float:left; padding-right:10px; width: 180px">
   <p>Legenda 1</p>
 </div>
