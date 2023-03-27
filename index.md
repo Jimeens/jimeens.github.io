@@ -267,83 +267,84 @@ Welcome to my personal website! Here you will find a collection of information a
         }
 </style>
  -->
-<div class="carousel">
-  <div class="carousel-inner">
-    <!-- Bloco da imagem 1 -->
-    <input
-      class="carousel-open"
-      type="radio"
-      id="carousel-1"
-      name="carousel"
-      aria-hidden="true"
-      hidden=""
-      checked="checked"
-    />
-    <div class="carousel-item">
-      <img
-        src="http://fakeimg.pl/2000x800/0079D8/fff/?text=Img1"
-      />
-    </div>
-    <!-- Bloco da imagem 2 -->
-    <input
-      class="carousel-open"
-      type="radio"
-      id="carousel-2"
-      name="carousel"
-      aria-hidden="true"
-      hidden=""
-    />
-    <div class="carousel-item">
-      <img
-        src="http://fakeimg.pl/2000x800/0079D8/fff/?text=Img2"
-      />
-    </div>
-    <!-- Bloco da imagem 3 -->
-    <input
-      class="carousel-open"
-      type="radio"
-      id="carousel-3"
-      name="carousel"
-      aria-hidden="true"
-      hidden=""
-    />
-    <div class="carousel-item">
-      <img
-        src="http://fakeimg.pl/2000x800/0079D8/fff/?text=Img3"
-      />
-    </div>
+ <section>
+    <div class="carousel">
+      <div class="carousel-inner">
+        <!-- Bloco da imagem 1 -->
+        <input
+          class="carousel-open"
+          type="radio"
+          id="carousel-1"
+          name="carousel"
+          aria-hidden="true"
+          hidden=""
+          checked="checked"
+        />
+        <div class="carousel-item">
+          <img
+            src="http://fakeimg.pl/2000x800/0079D8/fff/?text=Img1"
+          />
+        </div>
+        <!-- Bloco da imagem 2 -->
+        <input
+          class="carousel-open"
+          type="radio"
+          id="carousel-2"
+          name="carousel"
+          aria-hidden="true"
+          hidden=""
+        />
+        <div class="carousel-item">
+          <img
+            src="http://fakeimg.pl/2000x800/0079D8/fff/?text=Img2"
+          />
+        </div>
+        <!-- Bloco da imagem 3 -->
+        <input
+          class="carousel-open"
+          type="radio"
+          id="carousel-3"
+          name="carousel"
+          aria-hidden="true"
+          hidden=""
+        />
+        <div class="carousel-item">
+          <img
+            src="http://fakeimg.pl/2000x800/0079D8/fff/?text=Img3"
+          />
+        </div>
 
-    <!-- Pode adicionar mais blocos de imagens aqui -->
+        <!-- Pode adicionar mais blocos de imagens aqui -->
 
-    <!-- Adicionar o prev de acordo com a quantidade de páginas que adicionar -->
-    <label for="carousel-1" class="carousel-control prev control-2">‹</label>
-    <label for="carousel-2" class="carousel-control prev control-3">‹</label>
-    <label for="carousel-3" class="carousel-control prev control-1">‹</label>
-    <!-- Adicionar o next de acordo com a quantidade de páginas que adicionar -->
-    <label for="carousel-1" class="carousel-control next control-3">›</label>
-    <label for="carousel-2" class="carousel-control next control-1">›</label>
-    <label for="carousel-3" class="carousel-control next control-2">›</label>
-    <!-- 
-        Abaixo são os indicadores da página ativa. Se não quiser basta remover. 
-        E caso adicione mais páginas, é preciso adicionar mais itens e alterar 
-        a numeração 
-    -->
-    <ol class="carousel-indicators">
-      <li>
-        <label for="carousel-1" class="carousel-bullet">•</label>
-      </li>
-      <li>
-        <label for="carousel-2" class="carousel-bullet">•</label>
-      </li>
-      <li>
-        <label for="carousel-3" class="carousel-bullet">•</label>
-      </li>
-    </ol>
-  </div>
-</div>
+        <!-- Adicionar o prev de acordo com a quantidade de páginas que adicionar -->
+        <label for="carousel-1" class="carousel-control prev control-2">‹</label>
+        <label for="carousel-2" class="carousel-control prev control-3">‹</label>
+        <label for="carousel-3" class="carousel-control prev control-1">‹</label>
+        <!-- Adicionar o next de acordo com a quantidade de páginas que adicionar -->
+        <label for="carousel-1" class="carousel-control next control-3">›</label>
+        <label for="carousel-2" class="carousel-control next control-1">›</label>
+        <label for="carousel-3" class="carousel-control next control-2">›</label>
+        <!-- 
+            Abaixo são os indicadores da página ativa. Se não quiser basta remover. 
+            E caso adicione mais páginas, é preciso adicionar mais itens e alterar 
+            a numeração 
+        -->
+        <ol class="carousel-indicators">
+          <li>
+            <label for="carousel-1" class="carousel-bullet">•</label>
+          </li>
+          <li>
+            <label for="carousel-2" class="carousel-bullet">•</label>
+          </li>
+          <li>
+            <label for="carousel-3" class="carousel-bullet">•</label>
+          </li>
+        </ol>
+      </div>
+    </div>
+</section>
 
 <style>
-  position: relative;
     
   .carousel {
     position: relative;
