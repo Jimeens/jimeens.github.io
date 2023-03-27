@@ -4,7 +4,6 @@ Welcome to my personal website! Here you will find a collection of information a
 
 <section>
     <div class="container">
-        <link rel="stylesheet" href="../assets/css/carousel.css">    
         <div class="carousel">
             <input type="radio" name="slides" checked="checked" id="slide-1">
             <input type="radio" name="slides" id="slide-2">
