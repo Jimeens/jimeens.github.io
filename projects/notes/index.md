@@ -20,7 +20,7 @@ Here, I will be sharing my exercise solutions for the homework assignments I had
   <a href="https://jimeens.github.io/mynotes/Fluid%20Mechanics/Homework%201.pdf">❖ Homework I</a>
 </div>
 <div style="display: inline-block; margin-left= 20px; margin-right= 20px;">
-  <a>❖ Homework II (It's not finished yet.)</a>
+  <a href="https://jimeens.github.io/mynotes/Fluid%20Mechanics/Homework%202.pdf">❖ Homework II</a>
 </div>
 
 # 2022
