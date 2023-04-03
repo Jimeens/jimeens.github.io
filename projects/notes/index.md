@@ -25,7 +25,7 @@ Here, I will be sharing my exercise solutions for the homework assignments I had
 
 ## Fundamentals of Chemistry for Physics
 
-Here, I will be sharing my exercise solutions for the study guides assignments I had in my [*Fundamentals of Chemistry for Physics*](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=QFL0606) course, taught by Ph.D. Gianluca Camillo Azzellini at the University of São Paulo’s [*Institute of Chemistry*](https://www.iq.usp.br/portaliqusp/) (IQUSP) during the first semester of 2023. This course is a really useless course which I have learned nothing... All of my friends agree with this.
+Here, I will be sharing my exercise solutions for the study guides assignments I had in my [*Fundamentals of Chemistry for Physics*](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=QFL0606) course, taught by Ph.D. Gianluca Camillo Azzellini at the University of São Paulo’s [*Institute of Chemistry*](https://www.iq.usp.br/portaliqusp/) (IQUSP) during the first semester of 2023. This course is a really useless course which I have learned nothing... all the people I know agree on this.
 
 <div style="display: inline-block; margin-left= 20px; margin-right= 20px;">
   <a href="https://jimeens.github.io/mynotes/Fundamentals%20of%20Chemistry/Study%20Guide%20I.pdf">❖ Study Guide I</a>
