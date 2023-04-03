@@ -23,3 +23,33 @@ Welcome to my personal website! Here you will find a collection of information a
     <br><small><a href="https://jimeens.github.io/projects/notes/">Lecture notes</a></small>
   </figcaption>
 </div>
+
+<!-- Line break -->
+
+<div style="display: inline-block; margin-left= 10px; margin-right= 10px;">
+  <a href="https://jimeens.github.io/mynotes/Fundamentals%20of%20Chemistry/Study%20Guide%20I.pdf"><img src="Study Guide - cover page.png" alt="imagem 4" style="float:left; padding-right:10px; width: 190px"></a>
+  <figcaption style="display: block">Study Guide I
+    <br><small><a href="https://jimeens.github.io/projects/notes/">My Solutions</a></small>
+  </figcaption>
+</div>
+<div style="display: inline-block; margin-left= 10px; margin-right= 10px;">
+  <a href="https://jimeens.github.io/mynotes/Fundamentals%20of%20Chemistry/Study%20Guide%20II.pdf"><img src="Study Guide - cover page.png" alt="imagem 5" style="float:left; padding-right:10px; width: 190px"></a>
+  <figcaption style="display: block">Study Guide II
+    <br><small><a href="https://jimeens.github.io/projects/notes/">My Solutions</a></small>
+  </figcaption>
+</div>
+<div style="display: inline-block; margin-left= 10px; margin-right= 10px;">
+  <a href="https://jimeens.github.io/mynotes/Fluid%20Mechanics/Homework%20I.pdf"><img src="Homework - cover page.png" alt="imagem 6" style="float:left; padding-right:10px; width: 190px"></a>
+  <figcaption style="display: block">Homework I
+    <br><small><a href="https://jimeens.github.io/projects/notes/">My Solutions</a></small>
+  </figcaption>
+</div>
+
+<!-- Line break -->
+
+<div style="display: inline-block; margin-left= 10px; margin-right= 10px;">
+  <a href="https://jimeens.github.io/mynotes/Fluid%20Mechanics/Homework%20II.pdf"><img src="Homework - cover page.png" alt="imagem 6" style="float:left; padding-right:10px; width: 190px"></a>
+  <figcaption style="display: block">Homework II
+    <br><small><a href="https://jimeens.github.io/projects/notes/">My Solutions</a></small>
+  </figcaption>
+</div>
