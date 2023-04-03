@@ -14,7 +14,7 @@ This is my lecture notes for the course of [*Quantum Mechanics II*](https://uspd
 
 ## Fluid Mechanics
 
-Here, I will be sharing my exercise solutions for the homework assignments I had in my [*Fluid Mechanics*](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4300324) course, taught by Ph.D. Frédérique Marie Brigitte Sylvie Grassi at the University of São Paulo’s [*Institute of Physics*](https://portal.if.usp.br/) (IFUSP) during the first semester of 2023. Since Professor Grassi has personal notes that I found helpful throughout the semester, I did not take additional lecture notes for this course.
+On this part, I will be sharing my exercise solutions for the homework assignments I had in my [*Fluid Mechanics*](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4300324) course, taught by Ph.D. Frédérique Marie Brigitte Sylvie Grassi at the University of São Paulo’s [*Institute of Physics*](https://portal.if.usp.br/) (IFUSP) during the first semester of 2023. Since Professor Grassi has personal notes that I found helpful throughout the semester, I did not take additional lecture notes for this course.
 
 <div style="display: inline-block; margin-left= 20px; margin-right= 20px;">
   <a href="https://jimeens.github.io/mynotes/Fluid%20Mechanics/Homework%201.pdf">❖ Homework I</a>
@@ -25,7 +25,7 @@ Here, I will be sharing my exercise solutions for the homework assignments I had
 
 ## Fundamentals of Chemistry for Physics
 
-Here, I will be sharing my exercise solutions for the study guides assignments I had in my [*Fundamentals of Chemistry for Physics*](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=QFL0606) course, taught by Ph.D. Gianluca Camillo Azzellini at the University of São Paulo’s [*Institute of Chemistry*](https://www.iq.usp.br/portaliqusp/) (IQUSP) during the first semester of 2023. This course is a really useless course which I have learned nothing... all the people I know agree on this.
+Here, I will be sharing my solutions for the study guides assignments I had in my [*Fundamentals of Chemistry for Physics*](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=QFL0606) course, taught by Ph.D. Gianluca Camillo Azzellini at the University of São Paulo’s [*Institute of Chemistry*](https://www.iq.usp.br/portaliqusp/) (IQUSP) during the first semester of 2023. This course is a really useless course which I have learned nothing... all the people I know agree on this.
 
 <div style="display: inline-block; margin-left= 20px; margin-right= 20px;">
   <a href="https://jimeens.github.io/mynotes/Fundamentals%20of%20Chemistry/Study%20Guide%20I.pdf">❖ Study Guide I</a>
