@@ -13,9 +13,9 @@ Here I will be sharing my solutions for the homework assignments I had in my [*Q
 2. The course is a graduate course, so the subjects covered are more complex and "current" , which is very motivating for those who are studying;
 3. All classes are in English, which motivates me to learn more this lenguage and get even more accustomed to one of the most used languages in physics;
 4. The evaluation method is exclusively by lists and an oral test, so the problems assigned are much more interesting than a possible question from a 2h exam, and the oral test is one of the most used methods in universities outside Brazil.
-<div style="display: inline-block; margin-left= 20px; margin-right= 20px;">
-  <a>❖ Homework I (not avaliable yet)</a>
-</div>
+<ul>
+  <li><a>Homework I (not avaliable yet)</a></li>
+</ul>
 <br>
 
 ## [Quantum Mechanics II](https://jimeens.github.io/mynotes/Quantum%20Mechanics%20II.pdf)
@@ -28,25 +28,19 @@ This is my lecture notes for the course of [*Quantum Mechanics II*](https://uspd
 ## Fluid Mechanics
 
 On this part, I will be sharing my exercise solutions for the homework assignments I had in my [*Fluid Mechanics*](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4300324) course, taught by Ph.D. Frédérique Marie Brigitte Sylvie Grassi at the University of São Paulo’s [*Institute of Physics*](https://portal.if.usp.br/) (IFUSP) during the first semester of 2023. Since Professor Grassi has personal notes that I found helpful throughout the semester, I did not take additional lecture notes for this course.
-
-<div style="display: inline-block; margin-left= 20px; margin-right= 20px;">
-  <a href="https://jimeens.github.io/mynotes/Fluid%20Mechanics/Homework%201.pdf">❖ Homework I</a>
-</div>
-<div style="display: inline-block; margin-left= 20px; margin-right= 20px;">
-  <a href="https://jimeens.github.io/mynotes/Fluid%20Mechanics/Homework%202.pdf">❖ Homework II</a>
-</div>
+<ul>
+  <li><a href="https://jimeens.github.io/mynotes/Fluid%20Mechanics/Homework%201.pdf">Homework I</a></li>
+  <li><a href="https://jimeens.github.io/mynotes/Fluid%20Mechanics/Homework%202.pdf">Homework II</a></li>
+</ul>
 <br>
 
 ## Fundamentals of Chemistry for Physics
 
 Here, I will be sharing my solutions for the study guides assignments I had in my [*Fundamentals of Chemistry for Physics*](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=QFL0606) course, taught by Ph.D. Gianluca Camillo Azzellini at the University of São Paulo’s [*Institute of Chemistry*](https://www.iq.usp.br/portaliqusp/) (IQUSP) during the first semester of 2023. This course is a really useless course which I have learned nothing... all the people I know agree on this.
-
-<div style="display: inline-block; margin-left= 20px; margin-right= 20px;">
-  <a href="https://jimeens.github.io/mynotes/Fundamentals%20of%20Chemistry/Study%20Guide%20I.pdf">❖ Study Guide I</a>
-</div>
-<div style="display: inline-block; margin-left= 20px; margin-right= 20px;">
-  <a href="https://jimeens.github.io/mynotes/Fundamentals%20of%20Chemistry/Study%20Guide%20II.pdf">❖ Study Guide II</a>
-</div>
+<ul>
+  <li><a href="https://jimeens.github.io/mynotes/Fundamentals%20of%20Chemistry/Study%20Guide%20I.pdf">Study Guide I</a></li>
+  <li><a href="https://jimeens.github.io/mynotes/Fundamentals%20of%20Chemistry/Study%20Guide%20II.pdf">Study Guide II</a></li>
+</ul>
 <br>
 
 # 2022
