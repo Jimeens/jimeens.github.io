@@ -9,98 +9,98 @@ Here you can find a collection of my study documents, including lecture notes I'
 ## Introduction to Quantum Field Theory
 
 <html>
-<head>
-  <style>
-      
-    .cta-background {
-      background-size: cover;
-      background-position: center center;
-      bottom: 0;
-      filter: blur(50px);
-      left: 0;
-      position: absolute;
-      right: 0;
-      top: 0;
-      width: 100%;
-      z-index: -1;
-    }
+  <head>
+    <style>
 
-    .container {
-      align-items: center;
-      display: flex;
-      height: 100vh;
-      justify-content: center;
-    }
-
-    .cta {
-      background: #333;
-      box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.2);
-      height: 450px;
-      overflow: hidden;
-      position: relative;
-      width: 300px;
-   
-      &:hover {
-      
-          img {
-            top: 0%;
-            filter: brightness(20%);
-          }
-      
-          .text {
-            bottom: 0;
-          }
-    }
-   
-    img {
-      bottom: 0;
-      filter: brightness(100%);
-      left: -30px;
-      position: absolute;
-      right: 0px;
-      top: 0;
-      transition: 0.5s ease-in-out;
-      width: 115%;
-    }
-   
-    .text {
-      bottom: -85%;
-      padding: 15px;
-      position: absolute;
-      transition: 0.5s ease-in-out;
-
-      h2 {
-       color: #fff;
-       display: inline-block;
-       font-weight: 300;
-       margin-bottom: 5px;
-       position: relative;
+      .cta-background {
+        background-size: cover;
+        background-position: center center;
+        bottom: 0;
+        filter: blur(50px);
+        left: 0;
+        position: absolute;
+        right: 0;
+        top: 0;
+        width: 100%;
+        z-index: -1;
       }
-      
-      p {
-        color: #fff;
-        font-weight: 300;
+
+      .container {
+        align-items: center;
+        display: flex;
+        height: 100vh;
+        justify-content: center;
+      }
+
+      .cta {
+        background: #333;
+        box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.2);
+        height: 450px;
+        overflow: hidden;
+        position: relative;
+        width: 300px;
+
+        &:hover {
+
+            img {
+              top: 0%;
+              filter: brightness(20%);
+            }
+
+            .text {
+              bottom: 0;
+            }
+      }
+
+      img {
+        bottom: 0;
+        filter: brightness(100%);
+        left: -30px;
+        position: absolute;
+        right: 0px;
+        top: 0;
+        transition: 0.5s ease-in-out;
+        width: 115%;
+      }
+
+      .text {
+        bottom: -85%;
+        padding: 15px;
+        position: absolute;
+        transition: 0.5s ease-in-out;
+
+        h2 {
+         color: #fff;
+         display: inline-block;
+         font-weight: 300;
+         margin-bottom: 5px;
+         position: relative;
+        }
+
+        p {
+          color: #fff;
+          font-weight: 300;
+        }
       }
     }
-  }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <div class="cta">
-      <img src="https://raw.githubusercontent.com/Jimeens/jimeens.github.io/main/images/Homework%201%20-%20cover%20page%20QTF%20I.png" alt="">
-      <div class="text">
-        <h2>Quantum Field Theory I</h2>
-        <p>Here I will be sharing my solutions for the homework assignments I had in my <a href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4305107">Quantum Field Theory<a> course, taught by Ph.D. Gustavo Alberto Burdman at the University of São Paulo’s <a href="https://portal.if.usp.br/">Institute of Physics</a> (IFUSP) during the first semester of 2023. In this course, the professor Burdman provides all his class notes in <a href="http://fma.if.usp.br/~burdman/QFT1/qft1index.html">Quantum Field Theory I - 1st semester 2023*</a>. I consider this notes very good to follow the course, and as a complementary resources, I used Peskin & Schröder, Sredninki, Schwarz, and other books which I think are good books to study QFT. Personally, I consider it to be one of the best courses I have taken in my undergraduate studies.</p>
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="cta">
+        <img src="https://raw.githubusercontent.com/Jimeens/jimeens.github.io/main/images/Homework%201%20-%20cover%20page%20QTF%20I.png" alt="">
+        <div class="text">
+          <h2>Quantum Field Theory I</h2>
+          <p>Here I will be sharing my solutions for the homework assignments I had in my <a href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4305107">Quantum Field Theory<a> course, taught by Ph.D. Gustavo Alberto Burdman at the University of São Paulo’s <a href="https://portal.if.usp.br/">Institute of Physics</a> (IFUSP) during the first semester of 2023. In this course, the professor Burdman provides all his class notes in <a href="http://fma.if.usp.br/~burdman/QFT1/qft1index.html">Quantum Field Theory I - 1st semester 2023*</a>. I consider this notes very good to follow the course, and as a complementary resources, I used Peskin & Schröder, Sredninki, Schwarz, and other books which I think are good books to study QFT. Personally, I consider it to be one of the best courses I have taken in my undergraduate studies.</p>
+        </div>
+      </div>
+      <div style="color:#fff"> 
+        <ul>
+          <li><a>Homework I (not avaliable yet)</a></li>
+        </ul> 
       </div>
     </div>
-    <div style="color:#fff"> 
-      <ul>
-        <li><a>Homework I (not avaliable yet)</a></li>
-      </ul> 
-    </div>
-  </div>
-</body>
+  </body>
 </html>
 
   Here I will be sharing my solutions for the homework assignments I had in my [*Quantum Field Theory*](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4305107) course, taught by Ph.D. Gustavo Alberto Burdman at the University of São Paulo’s [*Institute of Physics*](https://portal.if.usp.br/) (IFUSP) during the first semester of 2023. In this course, the professor Burdman provides all his class notes in [*Quantum Field Theory I - 1st semester 2023*](http://fma.if.usp.br/~burdman/QFT1/qft1index.html). I consider this notes very good to follow the course, and as a complementary resources, I used Peskin & Schröder, Sredninki, Schwarz, and other books which I think are good books to study QFT. Personally, I consider it to be one of the best courses I have taken in my undergraduate studies for a few very clear reasons:
