@@ -12,10 +12,6 @@ Here you can find a collection of my study documents, including lecture notes I'
 <html>
   <head>
     <style>
-      body {
-        background: #111;
-        font-family: 'Open Sans', sans-serif;
-      }
 
       .cta-background {
         background-size: cover;
