@@ -6,11 +6,7 @@ Here you can find a collection of my study documents, including lecture notes I'
 <div>
   <hr>
 </div>
-## Introduction to Quantum Field Theory
 
-
-<html>
-  
 <head>
   <link rel="stylesheet" href="{{ '/assets/css/cardstyle.css?v=' | append: site.github.build_revision | relative_url }}">
 </head>
@@ -31,8 +27,6 @@ Here you can find a collection of my study documents, including lecture notes I'
     </div>
   </div>
 </body>
-  
-</html>
   
   
   
