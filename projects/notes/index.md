@@ -12,81 +12,81 @@ Here you can find a collection of my study documents, including lecture notes I'
   <head>
     <style>
       body {
-   background: #111;
-   font-family: 'Open Sans', sans-serif;
-}
+        background: #111;
+        font-family: 'Open Sans', sans-serif;
+      }
 
-.cta-background {
-   background-size: cover;
-   background-position: center center;
-   bottom: 0;
-   filter: blur(50px);
-   left: 0;
-   position: absolute;
-   right: 0;
-   top: 0;
-   width: 100%;
-   z-index: -1;
-}
+      .cta-background {
+        background-size: cover;
+        background-position: center center;
+        bottom: 0;
+        filter: blur(50px);
+        left: 0;
+        position: absolute;
+        right: 0;
+        top: 0;
+        width: 100%;
+        z-index: -1;
+      }
 
-.container {
-   align-items: center;
-   display: flex;
-   height: 100vh;
-   justify-content: center;
-}
+      .container {
+        align-items: center;
+        display: flex;
+        height: 100vh;
+        justify-content: center;
+      }
 
-.cta {
-   background: #333;
-   box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.2);
-   height: 450px;
-   overflow: hidden;
-   position: relative;
-   width: 300px;
+      .cta {
+        background: #333;
+        box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.2);
+        height: 450px;
+        overflow: hidden;
+        position: relative;
+        width: 300px;
    
-   &:hover {
+        &:hover {
       
+            img {
+              top: 0%;
+              filter: brightness(20%);
+            }
+      
+            .text {
+              bottom: 0;
+            }
+      }
+   
       img {
-         top: 0%;
-         filter: brightness(20%);
+        bottom: 0;
+        filter: brightness(100%);
+        left: -30px;
+        position: absolute;
+        right: 0px;
+        top: 0;
+        transition: 0.5s ease-in-out;
+        width: 115%;
       }
-      
+   
       .text {
-         bottom: 0;
-      }
-   }
-   
-   img {
-      bottom: 0;
-      filter: brightness(100%);
-      left: -30px;
-      position: absolute;
-      right: 0px;
-      top: 0;
-      transition: 0.5s ease-in-out;
-      width: 115%;
-   }
-   
-   .text {
-      bottom: -85%;
-      padding: 15px;
-      position: absolute;
-      transition: 0.5s ease-in-out;
+        bottom: -85%;
+        padding: 15px;
+        position: absolute;
+        transition: 0.5s ease-in-out;
 
-      h2 {
+        h2 {
          color: #fff;
          display: inline-block;
          font-weight: 300;
          margin-bottom: 5px;
          position: relative;
-      }
+        }
       
-      p {
-         color: #fff;
-         font-weight: 300;
+        p {
+          color: #fff;
+          font-weight: 300;
+        }
       }
-   }
-}
+    }
     </style>
   </head>
   <body>
