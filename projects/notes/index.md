@@ -8,11 +8,13 @@ Here you can find a collection of my study documents, including lecture notes I'
 </div>
 ## Introduction to Quantum Field Theory
 
-<!DOCTYPE html>
+
 <html>
+  
 <head>
   <link rel="stylesheet" href="{{ '/assets/css/cardstyle.css?v=' | append: site.github.build_revision | relative_url }}">
 </head>
+  
 <body>
   <div class="container">
     <div class="cta">
@@ -28,7 +30,8 @@ Here you can find a collection of my study documents, including lecture notes I'
       </ul> 
     </div>
   </div>
-</body>  
+</body>
+  
 </html>
   
   
