@@ -8,62 +8,6 @@ Here you can find a collection of my study documents, including lecture notes I'
 </div>
 ## Introduction to Quantum Field Theory
 
-<div class="container">
-  <div class="card face1"><img src="/images/Homework%201%20-%20cover%20page%20QTF%20I.png" alt="The cover page of the QFT I" class="image"></div>
-  <p class="card face2"><span style="font-size: 13pt;">I designed and developed this homework solution template with the intention of providing an elegant and simple-to-use tool for organizing and presenting assignments. The template is highly customizable, with features that can be easily modified to fit specific needs and preferences. The layout is designed to be clear and concise, allowing for easy readability and navigation. Whether for personal use or academic purposes, this template is a reliable and efficient solution for organizing and presenting homework assignments in a professional manner.</span></p>
-
-  <style>
-    .container .card .face.face1 .content h3{
-      margin: 10px 0 0;
-      padding: 0;
-      color: #202020;
-      text-align: justified;
-      font-size: 14px;
-    }
-
-    .container .card .face.face2 {
-      position: relative;
-      background: #202020;
-      display: flex;
-      justify-content: center;
-      box-sizing: border-box;
-      box-shadow: 0 20px 50px rgba(0,0,0,0);
-      transform: translateX(-100px);
-    }
-
-    .container .card:hover .face.face2{
-      transform: translateX(0)
-    }
-
-    .container .card .face.face2 .content p{
-      margin: 0;
-      padding: 0;
-    }
-
-    body{
-      margin: 0;
-      padding: 0;
-      min-height: 100vh;
-      background: #202020;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-    }
-
-    .container{
-      width: 1000px;
-      position: relative;
-      display: flex;
-      justify-content: space-between;
-    }
-
-    .conteiner .card{
-      position: relative;
-      cursor: pointer;
-    }
-  </style>
-</div>
-
 Here I will be sharing my solutions for the homework assignments I had in my [*Quantum Field Theory*](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4305107) course, taught by Ph.D. Gustavo Alberto Burdman at the University of São Paulo’s [*Institute of Physics*](https://portal.if.usp.br/) (IFUSP) during the first semester of 2023. In this course, the professor Burdman provides all his class notes in [*Quantum Field Theory I - 1st semester 2023*](http://fma.if.usp.br/~burdman/QFT1/qft1index.html). I consider this notes very good to follow the course, and as a complementary resources, I used Peskin & Schröder, Sredninki, Schwarz, and other books which I think are good books to study QFT. Personally, I consider it to be one of the best courses I have taken in my undergraduate studies for a few very clear reasons:
 1. Professor Burdman is a member of the [*Department of Mathematical Physics at IFUSP*](http://portal.if.usp.br/fma/), and has been teaching the course for several years;
 2. The course is a graduate course, so the subjects covered are more complex and "current" , which is very motivating for those who are studying;
