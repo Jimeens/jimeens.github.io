@@ -52,27 +52,22 @@
 
 a:link {
 	color: #A158F1;
-	outline: 0;
 }
 
 a:visited {
 	color: #BD88F8;
-	outline: 0;
 }
 
 a:active {
 	color: #935AF2;
-	outline: 0;
+	text-decoration: none;
 }
 
 a:hover {
 	color: #935AF2;
-	outline: 0;
+	text-decoration: none;
 }
 
-a:focus {
-  outline: thin dotted;
-}
 
 
 .page__content {
@@ -91,10 +86,19 @@ p {
 
 ul {
 	text-align:justify;
+	list-style-image:url('../images/bullet.png');
 }
 
 ol {
 	text-align:justify;
+}
+
+hr {
+  border: 0;
+  outline: none;
+  height: 3px;
+  background: transparent url('../images/hr.gif') center center repeat-x;
+  margin: 0 0 20px;
 }
 
 #mybutton {
