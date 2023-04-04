@@ -10,7 +10,6 @@ Here you can find a collection of my study documents, including lecture notes I'
 
 <html>
 <head>
-  
   <style>
       
     .cta-background {
