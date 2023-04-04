@@ -59,12 +59,19 @@ a:visited {
 }
 
 a:active {
-	color: #935AF2
+	color: #935AF2;
+	outline: 0;
 }
 
 a:hover {
 	color: #935AF2;
+	outline: 0;
 }
+
+a:focus {
+  outline: thin dotted;
+}
+
 
 .page__content {
   text-align: justify;
