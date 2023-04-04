@@ -8,7 +8,6 @@ Here you can find a collection of my study documents, including lecture notes I'
 </div>
 ## Introduction to Quantum Field Theory
 
-<!DOCTYPE html>
 <html>
   <head>
     <style>
