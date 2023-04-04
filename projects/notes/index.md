@@ -9,7 +9,7 @@ Here you can find a collection of my study documents, including lecture notes I'
 ## Introduction to Quantum Field Theory
 
 <head>
-  <link rel="stylesheet" href="/assets/css/cardstyle.css">
+  <link rel="stylesheet" href="../assets/css/cardstyle.css">
 </head>
 <body>
   <div class="container">
