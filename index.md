@@ -23,6 +23,7 @@ Welcome to my personal website! Here you will find a collection of information a
     <br><small><a href="https://jimeens.github.io/projects/notes/">Lecture notes</a></small>
   </figcaption>
 </div>
+<br>
 
 <!-- Line break -->
 
@@ -44,6 +45,7 @@ Welcome to my personal website! Here you will find a collection of information a
     <br><small><a href="https://jimeens.github.io/projects/notes/">My Solutions</a></small>
   </figcaption>
 </div>
+<br>
 
 <!-- Line break -->
 
@@ -53,3 +55,5 @@ Welcome to my personal website! Here you will find a collection of information a
     <br><small><a href="https://jimeens.github.io/projects/notes/">My Solutions</a></small>
   </figcaption>
 </div>
+
+<br>
