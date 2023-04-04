@@ -11,7 +11,9 @@ Here you can find a collection of my study documents, including lecture notes I'
 <!DOCTYPE html>
 <html>
   <head>
+    
     <style>
+      
       .cta-background {
         background-size: cover;
         background-position: center center;
