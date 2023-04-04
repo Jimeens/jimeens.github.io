@@ -8,8 +8,7 @@ Here you can find a collection of my study documents, including lecture notes I'
 </div>
 ## Introduction to Quantum Field Theory
 
-<!DOCTYPE html>
-<html>
+
   <head>
     <style>
       body {
@@ -106,7 +105,6 @@ Here you can find a collection of my study documents, including lecture notes I'
       </div>
     </div>
   </body>
-</html>
 
 Here I will be sharing my solutions for the homework assignments I had in my [*Quantum Field Theory*](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4305107) course, taught by Ph.D. Gustavo Alberto Burdman at the University of São Paulo’s [*Institute of Physics*](https://portal.if.usp.br/) (IFUSP) during the first semester of 2023. In this course, the professor Burdman provides all his class notes in [*Quantum Field Theory I - 1st semester 2023*](http://fma.if.usp.br/~burdman/QFT1/qft1index.html). I consider this notes very good to follow the course, and as a complementary resources, I used Peskin & Schröder, Sredninki, Schwarz, and other books which I think are good books to study QFT. Personally, I consider it to be one of the best courses I have taken in my undergraduate studies for a few very clear reasons:
 1. Professor Burdman is a member of the [*Department of Mathematical Physics at IFUSP*](http://portal.if.usp.br/fma/), and has been teaching the course for several years;
