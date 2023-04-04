@@ -8,10 +8,10 @@ Here you can find a collection of my study documents, including lecture notes I'
 </div>
 ## Introduction to Quantum Field Theory
 
-<div class="container">
+<body>
   <div class="card face1"><img src="/images/Homework%201%20-%20cover%20page%20QTF%20I.png" alt="The cover page of the QFT I" class="image"></div>
   <p class="card face2"><span style="font-size: 13pt;">I designed and developed this homework solution template with the intention of providing an elegant and simple-to-use tool for organizing and presenting assignments. The template is highly customizable, with features that can be easily modified to fit specific needs and preferences. The layout is designed to be clear and concise, allowing for easy readability and navigation. Whether for personal use or academic purposes, this template is a reliable and efficient solution for organizing and presenting homework assignments in a professional manner.</span></p>
-</div>
+</body>
 <style>
   .container .card .face.face1 .content h3{
     margin: 10px 0 0;
