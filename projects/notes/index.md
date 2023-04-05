@@ -20,9 +20,9 @@ Here you can find a collection of my study documents, including lecture notes I'
     </div>
   </div>
   <div style="color:#fff; margin-right: 20px"> 
-    <ul>
-      <li><a>Homework I</a></li>
-    </ul> 
+    <ol style="list-style-tyle: upper-roman">
+      <li><a>Homework</a></li>
+    </ol> 
   </div>
   <div class="cta">
     <img src="https://raw.githubusercontent.com/Jimeens/jimeens.github.io/main/images/Cover%20Page%20QM%20II.png" alt="">
@@ -34,9 +34,9 @@ Here you can find a collection of my study documents, including lecture notes I'
     </div>
   </div>
   <div style="color:#fff; margin-right: 20px"> 
-    <ul>
-      <li><a>Homework I</a></li>
-    </ul> 
+    <ol style="list-style-tyle: upper-roman">
+      <li><a>Homework</a></li>
+    </ol> 
   </div>
   <div class="cta">
     <img src="https://raw.githubusercontent.com/Jimeens/jimeens.github.io/main/images/Homework%20-%20cover%20page%20FM.png" alt="">
@@ -46,10 +46,10 @@ Here you can find a collection of my study documents, including lecture notes I'
     </div>
   </div>
   <div style="color:#fff; margin-right: 20px"> 
-    <ul>
-      <li><a href="https://jimeens.github.io/mynotes/Fluid%20Mechanics/Homework%201.pdf">Homework I</a></li>
-      <li><a href="https://jimeens.github.io/mynotes/Fluid%20Mechanics/Homework%202.pdf">Homework II</a></li>
-    </ul> 
+    <ol style="list-style-tyle: upper-roman">
+      <li><a href="https://jimeens.github.io/mynotes/Fluid%20Mechanics/Homework%201.pdf">Homework</a></li>
+      <li><a href="https://jimeens.github.io/mynotes/Fluid%20Mechanics/Homework%202.pdf">Homework</a></li>
+    </ol> 
   </div>
   <div class="cta">
     <img src="https://raw.githubusercontent.com/Jimeens/jimeens.github.io/main/images/Homework%20-%20cover%20page%20FQ.png" alt="">
@@ -59,10 +59,10 @@ Here you can find a collection of my study documents, including lecture notes I'
     </div>
   </div>
   <div style="color:#fff"> 
-    <ul>
-      <li><a href="https://jimeens.github.io/mynotes/Fundamentals%20of%20Chemistry/Study%20Guide%20I.pdf">Homework I</a></li>
-      <li><a href="https://jimeens.github.io/mynotes/Fundamentals%20of%20Chemistry/Study%20Guide%20II.pdf">Homework II</a></li>
-    </ul> 
+    <ol style="list-style-tyle: upper-roman">
+      <li><a href="https://jimeens.github.io/mynotes/Fundamentals%20of%20Chemistry/Study%20Guide%20I.pdf">Homework</a></li>
+      <li><a href="https://jimeens.github.io/mynotes/Fundamentals%20of%20Chemistry/Study%20Guide%20II.pdf">Homework</a></li>
+    </ol> 
   </div>
 </div> 
 
