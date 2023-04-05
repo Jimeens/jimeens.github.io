@@ -24,30 +24,31 @@ Here you can find a collection of my study documents, including lecture notes I'
       <li><a>Homework I (not avaliable yet)</a></li>
     </ul> 
   </div>
+</div> 
+<!-- Divisão -->
+<div class="container">
+  <div class="cta">
+    <img src="https://raw.githubusercontent.com/Jimeens/jimeens.github.io/main/images/Homework%201%20-%20cover%20page%20QTF%20I.png" alt="">
+    <div class="text">
+      <h2><a href"https://jimeens.github.io/mynotes/Quantum%20Mechanics%20II.pdf">Quantum Mechanics II</a></h2>
+      <p>This is my lecture notes for the course of [*Quantum Mechanics II*](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4302404), which I am taking with Ph.D. Alexandre A. do Passo Suaide at the University of São Paulo's [*Institute of Physics*](https://portal.if.usp.br/) (IFUSP) during the first semester of 2023. These notes are a combination of my lecture notes, supplemented with additional material from various sources, such as extra bibliography, and revised notation and constants as needed. These lecture notes are a continuation of [*Quantum Mechanics I*](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4302403), so the intention is still to publish a book with both of them combined. Note that this one is still in development.
+
+*Co-author*: Felipe Gimenez Souza</p>
+    </div>
+  </div>
+  <div style="color:#fff"> 
+    <ul>
+      <li><a>Homework I (not avaliable yet)</a></li>
+    </ul> 
+  </div>
 </div>
   
   
   
   
   
-  
-  
-  Here I will be sharing my solutions for the homework assignments I had in my [*Quantum Field Theory*](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4305107) course, taught by Ph.D. Gustavo Alberto Burdman at the University of São Paulo’s [*Institute of Physics*](https://portal.if.usp.br/) (IFUSP) during the first semester of 2023. In this course, the professor Burdman provides all his class notes in [*Quantum Field Theory I - 1st semester 2023*](http://fma.if.usp.br/~burdman/QFT1/qft1index.html). I consider this notes very good to follow the course, and as a complementary resources, I used Peskin & Schröder, Sredninki, Schwarz, and other books which I think are good books to study QFT. Personally, I consider it to be one of the best courses I have taken in my undergraduate studies for a few very clear reasons:
-1. Professor Burdman is a member of the [*Department of Mathematical Physics at IFUSP*](http://portal.if.usp.br/fma/), and has been teaching the course for several years;
-2. The course is a graduate course, so the subjects covered are more complex and "current" , which is very motivating for those who are studying;
-3. All classes are in English, which motivates me to learn more this lenguage and get even more accustomed to one of the most used languages in physics;
-4. The evaluation method is exclusively by lists and an oral test, so the problems assigned are much more interesting than a possible question from a 2h exam, and the oral test is one of the most used methods in universities outside Brazil.
-<ul>
-  <li><a>Homework I (not avaliable yet)</a></li>
-</ul>
-<br>
 
-## [Quantum Mechanics II](https://jimeens.github.io/mynotes/Quantum%20Mechanics%20II.pdf)
 
-This is my lecture notes for the course of [*Quantum Mechanics II*](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4302404), which I am taking with Ph.D. Alexandre A. do Passo Suaide at the University of São Paulo's [*Institute of Physics*](https://portal.if.usp.br/) (IFUSP) during the first semester of 2023. These notes are a combination of my lecture notes, supplemented with additional material from various sources, such as extra bibliography, and revised notation and constants as needed. These lecture notes are a continuation of [*Quantum Mechanics I*](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4302403), so the intention is still to publish a book with both of them combined. Note that this one is still in development.
-
-*Co-author*: Felipe Gimenez Souza
-<br>
 
 ## Fluid Mechanics
 
