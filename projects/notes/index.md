@@ -28,7 +28,7 @@ Here you can find a collection of my study documents, including lecture notes I'
 <!-- Divisão -->
 <div class="container">
   <div class="cta">
-    <img src="https://raw.githubusercontent.com/Jimeens/jimeens.github.io/main/images/Homework%201%20-%20cover%20page%20QTF%20I.png" alt="">
+    <img src="https://raw.githubusercontent.com/Jimeens/jimeens.github.io/main/images/Cover%20Page%20QM%20II.png" alt="">
     <div class="text">
       <h2><a href"https://jimeens.github.io/mynotes/Quantum%20Mechanics%20II.pdf">Quantum Mechanics II</a></h2>
       <p>This is my lecture notes for the course of [*Quantum Mechanics II*](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4302404), which I am taking with Ph.D. Alexandre A. do Passo Suaide at the University of São Paulo's [*Institute of Physics*](https://portal.if.usp.br/) (IFUSP) during the first semester of 2023. These notes are a combination of my lecture notes, supplemented with additional material from various sources, such as extra bibliography, and revised notation and constants as needed. These lecture notes are a continuation of [*Quantum Mechanics I*](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4302403), so the intention is still to publish a book with both of them combined. Note that this one is still in development.
