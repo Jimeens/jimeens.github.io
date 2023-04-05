@@ -1,6 +1,6 @@
 # Lecture Notes / My Solutions
 
-Here you can find a collection of my study documents, including lecture notes I've written for courses, study notebooks, and some exercise solutions. Some are in English and some in Portuguese, with titles hyperlinked to corresponding PDF files.
+Here you can find a collection of my study documents, including lecture notes I've written for courses, study notebooks, and some exercise solutions. Some are in English and some in Portuguese. Hyperlinked title corresponding to PDF files or webpages related with the respective subject.
 
 # 2023
 <div>
