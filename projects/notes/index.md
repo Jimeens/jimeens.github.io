@@ -24,9 +24,6 @@ Here you can find a collection of my study documents, including lecture notes I'
       <li><a>Homework I (not avaliable yet)</a></li>
     </ul> 
   </div>
-</div> 
-<!-- Divisão -->
-<div class="container">
   <div class="cta">
     <img src="https://raw.githubusercontent.com/Jimeens/jimeens.github.io/main/images/Cover%20Page%20QM%20II.png" alt="">
     <div class="text">
@@ -41,7 +38,8 @@ Here you can find a collection of my study documents, including lecture notes I'
       <li><a>Homework I (not avaliable yet)</a></li>
     </ul> 
   </div>
-</div>
+</div> 
+<!-- Divisão -->
   
   
   
