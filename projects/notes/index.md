@@ -19,17 +19,17 @@ Here you can find a collection of my study documents, including lecture notes I'
       <p>Here I will be sharing my solutions for the homework assignments I had in my <a href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4305107">Quantum Field Theory</a> course, taught by Ph.D. Gustavo Alberto Burdman at the University of São Paulo’s <a href="https://portal.if.usp.br/">Institute of Physics</a> (IFUSP) during the first semester of 2023. In this course, the professor Burdman provides all his class notes in <a href="http://fma.if.usp.br/~burdman/QFT1/qft1index.html">Quantum Field Theory I - 1st semester 2023</a>. I consider this notes very good to follow the course, and as a complementary resources, I used Peskin & Schröder, Sredninki, Schwarz, and other books which I think are good books to study QFT. Personally, I consider it to be one of the best courses I have taken in my undergraduate studies.</p>
     </div>
   </div>
-  <div style="color:#fff; margin-right:20px"> 
+  <figcaption style="color:#fff; display:block"> 
     <ul>
       <li><a>Homework I (not avaliable yet)</a></li>
     </ul> 
-  </div>
+  </figcaption>
   <div class="cta">
     <img src="https://raw.githubusercontent.com/Jimeens/jimeens.github.io/main/images/Cover%20Page%20QM%20II.png" alt="">
     <div class="text">
       <h2><a href="https://jimeens.github.io/mynotes/Quantum%20Mechanics%20II.pdf">Quantum Mechanics II</a></h2>
       <p>This is my lecture notes for the course of <a href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4302404">Quantum Mechanics II</a>, which I am taking with Ph.D. Alexandre A. do Passo Suaide at the University of São Paulo's <a href="https://portal.if.usp.br/">Institute of Physics</a> (IFUSP) during the first semester of 2023. These notes are a combination of my lecture notes, supplemented with additional material from various sources, such as extra bibliography, and revised notation and constants as needed. These lecture notes are a continuation of <a href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4302403">Quantum Mechanics I</a>, so the intention is still to publish a book with both of them combined. Note that this one is still in development.
-
+<br>
 *Co-author*: Felipe Gimenez Souza</p>
     </div>
   </div>
