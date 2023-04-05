@@ -51,6 +51,17 @@ Here you can find a collection of my study documents, including lecture notes I'
       <li><a href="https://jimeens.github.io/mynotes/Fluid%20Mechanics/Homework%202.pdf">Homework II</a></li>
     </ul> 
   </div>
+  <div class="text">
+      <h2>Fundamentals of Chemistry</h2>
+      <p>Here, I will be sharing my solutions for the study guides assignments I had in my <a href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=QFL0606">Fundamentals of Chemistry for Physics</a> course, taught by Ph.D. Gianluca Camillo Azzellini at the University of São Paulo’s <a href="https://www.iq.usp.br/portaliqusp/">Institute of Chemistry</a> (IQUSP) during the first semester of 2023. This course is a really useless course which I have learned nothing... all the people I know agree on this.</p>
+    </div>
+  </div>
+  <div style="color:#fff; margin-right: 20px"> 
+    <ul>
+      <li><a href="https://jimeens.github.io/mynotes/Fundamentals%20of%20Chemistry/Study%20Guide%20I.pdf">Homework I</a></li>
+      <li><a href="https://jimeens.github.io/mynotes/Fundamentals%20of%20Chemistry/Study%20Guide%20II.pdf">Homework II</a></li>
+    </ul> 
+  </div>
 </div> 
 
   
@@ -62,14 +73,7 @@ Here you can find a collection of my study documents, including lecture notes I'
 
 
 
-## Fundamentals of Chemistry for Physics
 
-Here, I will be sharing my solutions for the study guides assignments I had in my [*Fundamentals of Chemistry for Physics*](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=QFL0606) course, taught by Ph.D. Gianluca Camillo Azzellini at the University of São Paulo’s [*Institute of Chemistry*](https://www.iq.usp.br/portaliqusp/) (IQUSP) during the first semester of 2023. This course is a really useless course which I have learned nothing... all the people I know agree on this.
-<ul>
-  <li><a href="https://jimeens.github.io/mynotes/Fundamentals%20of%20Chemistry/Study%20Guide%20I.pdf">Study Guide I</a></li>
-  <li><a href="https://jimeens.github.io/mynotes/Fundamentals%20of%20Chemistry/Study%20Guide%20II.pdf">Study Guide II</a></li>
-</ul>
-<br>
 
 # 2022
 <div>
