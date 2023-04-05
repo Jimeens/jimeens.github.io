@@ -20,7 +20,7 @@ Here you can find a collection of my study documents, including lecture notes I'
     </div>
   </div>
   <div style="color:#fff; margin-right: 20px"> 
-    <ol style="list-style-tyle: upper-roman">
+    <ol>
       <li><a>Homework</a></li>
     </ol> 
   </div>
@@ -34,7 +34,7 @@ Here you can find a collection of my study documents, including lecture notes I'
     </div>
   </div>
   <div style="color:#fff; margin-right: 20px"> 
-    <ol style="list-style-tyle: upper-roman">
+    <ol>
       <li><a>Homework</a></li>
     </ol> 
   </div>
@@ -46,7 +46,7 @@ Here you can find a collection of my study documents, including lecture notes I'
     </div>
   </div>
   <div style="color:#fff; margin-right: 20px"> 
-    <ol style="list-style-tyle: upper-roman">
+    <ol>
       <li><a href="https://jimeens.github.io/mynotes/Fluid%20Mechanics/Homework%201.pdf">Homework</a></li>
       <li><a href="https://jimeens.github.io/mynotes/Fluid%20Mechanics/Homework%202.pdf">Homework</a></li>
     </ol> 
@@ -59,7 +59,7 @@ Here you can find a collection of my study documents, including lecture notes I'
     </div>
   </div>
   <div style="color:#fff"> 
-    <ol style="list-style-tyle: upper-roman">
+    <ol>
       <li><a href="https://jimeens.github.io/mynotes/Fundamentals%20of%20Chemistry/Study%20Guide%20I.pdf">Homework</a></li>
       <li><a href="https://jimeens.github.io/mynotes/Fundamentals%20of%20Chemistry/Study%20Guide%20II.pdf">Homework</a></li>
     </ol> 
