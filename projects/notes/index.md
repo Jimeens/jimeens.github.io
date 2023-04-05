@@ -13,17 +13,16 @@ Here you can find a collection of my study documents, including lecture notes I'
   
 <div class="container">
   <div class="cta">
-    <img src="https://raw.githubusercontent.com/Jimeens/jimeens.github.io/main/images/Homework%201%20-%20cover%20page%20QTF%20I.png" alt="">
+    <div style="color:#fff"> 
+      <ul>
+        <li><a>Homework I (not avaliable yet)</a></li>
+      </ul> 
+    </div>
+    <img src="https://raw.githubusercontent.com/Jimeens/jimeens.github.io/main/images/Homework%201%20-%20cover%20page%20QTF%20I.png" alt="" style="padding:20px">
     <div class="text">
       <h2>Quantum Field Theory I</h2>
       <p>Here I will be sharing my solutions for the homework assignments I had in my <a href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4305107">Quantum Field Theory</a> course, taught by Ph.D. Gustavo Alberto Burdman at the University of São Paulo’s <a href="https://portal.if.usp.br/">Institute of Physics</a> (IFUSP) during the first semester of 2023. In this course, the professor Burdman provides all his class notes in <a href="http://fma.if.usp.br/~burdman/QFT1/qft1index.html">Quantum Field Theory I - 1st semester 2023</a>. I consider this notes very good to follow the course, and as a complementary resources, I used Peskin & Schröder, Sredninki, Schwarz, and other books which I think are good books to study QFT. Personally, I consider it to be one of the best courses I have taken in my undergraduate studies.</p>
     </div>
-    <br>
-    <figcaption style="color:#fff; display:block"> 
-      <ul>
-        <li><a>Homework I (not avaliable yet)</a></li>
-      </ul> 
-    </figcaption>
   </div>
   <div class="cta">
     <img src="https://raw.githubusercontent.com/Jimeens/jimeens.github.io/main/images/Cover%20Page%20QM%20II.png" alt="">
