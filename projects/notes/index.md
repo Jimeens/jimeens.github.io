@@ -21,7 +21,7 @@ Here you can find a collection of my study documents, including lecture notes I'
   </div>
   <div style="color:#fff; margin-right: 20px"> 
     <ul>
-      <li><a>Homework I (not avaliable yet)</a></li>
+      <li><a>Homework I</a></li>
     </ul> 
   </div>
   <div class="cta">
@@ -35,7 +35,7 @@ Here you can find a collection of my study documents, including lecture notes I'
   </div>
   <div style="color:#fff; margin-right: 20px"> 
     <ul>
-      <li><a>Homework I (not avaliable yet)</a></li>
+      <li><a>Homework I</a></li>
     </ul> 
   </div>
   <div class="cta">
