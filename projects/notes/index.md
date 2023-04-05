@@ -12,7 +12,7 @@ Here you can find a collection of my study documents, including lecture notes I'
 </head>
   
 <div class="container">
-  <div class="cta" style="padding: 20px">
+  <div class="cta" style="padding: 0 20px 0 20px">
     <div style="color:#fff"> 
       <ul>
         <li><a>Homework I (not avaliable yet)</a></li>
