@@ -38,8 +38,21 @@ Here you can find a collection of my study documents, including lecture notes I'
       <li><a>Homework I (not avaliable yet)</a></li>
     </ul> 
   </div>
+  <div class="cta">
+    <img src="https://raw.githubusercontent.com/Jimeens/jimeens.github.io/main/images/Homework%20-%20cover%20page%20FM.png" alt="">
+    <div class="text">
+      <h2>Fluid Mechanics</h2>
+      <p>On this part, I will be sharing my exercise solutions for the homework assignments I had in my <a href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4300324">Fluid Mechanics</a> course, taught by Ph.D. Frédérique Marie Brigitte Sylvie Grassi at the University of São Paulo’s <a href="https://portal.if.usp.br/">Institute of Physics</a> (IFUSP) during the first semester of 2023. Since Professor Grassi has personal notes that I found helpful throughout the semester, I did not take additional lecture notes for this course.</p>
+    </div>
+  </div>
+  <div style="color:#fff; margin-right: 20px"> 
+    <ul>
+      <li><a href="https://jimeens.github.io/mynotes/Fluid%20Mechanics/Homework%201.pdf">Homework I</a></li>
+      <li><a href="https://jimeens.github.io/mynotes/Fluid%20Mechanics/Homework%202.pdf">Homework II</a></li>
+    </ul> 
+  </div>
 </div> 
-<!-- Divisão -->
+
   
   
   
@@ -48,14 +61,6 @@ Here you can find a collection of my study documents, including lecture notes I'
 
 
 
-## Fluid Mechanics
-
-On this part, I will be sharing my exercise solutions for the homework assignments I had in my [*Fluid Mechanics*](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4300324) course, taught by Ph.D. Frédérique Marie Brigitte Sylvie Grassi at the University of São Paulo’s [*Institute of Physics*](https://portal.if.usp.br/) (IFUSP) during the first semester of 2023. Since Professor Grassi has personal notes that I found helpful throughout the semester, I did not take additional lecture notes for this course.
-<ul>
-  <li><a href="https://jimeens.github.io/mynotes/Fluid%20Mechanics/Homework%201.pdf">Homework I</a></li>
-  <li><a href="https://jimeens.github.io/mynotes/Fluid%20Mechanics/Homework%202.pdf">Homework II</a></li>
-</ul>
-<br>
 
 ## Fundamentals of Chemistry for Physics
 
