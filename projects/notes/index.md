@@ -53,6 +53,9 @@ Here you can find a collection of my study documents, including lecture notes I'
       <li><a href="https://jimeens.github.io/mynotes/Fluid%20Mechanics/Homework%202.pdf">Homework</a></li>
     </ol> 
   </div>
+</div> 
+
+<div class="container">
   <div class="cta">
     <img src="https://raw.githubusercontent.com/Jimeens/jimeens.github.io/main/images/Homework%20-%20cover%20page%20FQ.png" alt="">
     <div class="text">
@@ -66,10 +69,7 @@ Here you can find a collection of my study documents, including lecture notes I'
       <li><a href="https://jimeens.github.io/mynotes/Fundamentals%20of%20Chemistry/Study%20Guide%20II.pdf">Homework</a></li>
     </ol> 
   </div>
-</div> 
-
-  
-  
+</div>
   
   
   
