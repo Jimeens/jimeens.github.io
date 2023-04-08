@@ -17,8 +17,8 @@
    display: grid;
    height: 100vh;
    justify-content: center;
-   grid-template-columns: 1fr 1fr 1fr;
-   grid-template-rows: 1.5fr 1.5fr 1.5fr;
+   grid-template-columns: 0.3fr 0.3fr 0.3fr;
+   grid-template-rows: 0.3fr 0.3fr 0.3fr;
    grid-template-areas:
     "cta1 cta2 cta3";
    grid-gap: 0rem;
