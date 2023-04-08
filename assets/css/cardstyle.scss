@@ -5,7 +5,6 @@
    bottom: 0;
    filter: blur(50px);
    left: 0;
-   display: grid;
    position: absolute;
    right: 0;
    top: 0;
@@ -15,17 +14,22 @@
 
 .container {
    align-items: center;
-   display: flex;
-   height: 500px;
+   display: grid;
+   height: 100vh;
    justify-content: center;
+   grid-template-columns: 1fr 1fr 1fr;
+   grid-template-rows: 1.5fr 1.5fr 1.5fr;
+   grid-template-areas:
+    "cta1 cta2 cta3";
+   grid-gap: 0rem;
 }
 
-.cta {
+#cta1 {
    background: #202020;
    box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.2);
    height: 440px;
+   margin: 20px 20px 20px 20px;
    overflow: hidden;
-   display: grid;
    position: relative;
    width: 300px;
    
@@ -45,7 +49,6 @@
       bottom: 0;
       filter: brightness(100%);
       left: 0;
-      display: block;
       position: absolute;
       right: 0px;
       top: 0px;
@@ -56,7 +59,6 @@
    .text {
       bottom: -91%;
       padding: 15px;
-      display: block;
       position: absolute;
       transition: 0.4s ease-in-out;
 
@@ -75,14 +77,119 @@
    }
 }
 
-@media print, screen and (max-width: 480px) {
-	#header {
-		margin-top:-20px
-	}
-	section {
-		margin-top:40px
-	}
-	nav {
-		display:block
-	}
+#cta2 {
+   background: #202020;
+   box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.2);
+   height: 440px;
+   margin: 20px 20px 20px 20px;
+   overflow: hidden;
+   position: relative;
+   width: 300px;
+   
+   &:hover {
+      
+      img {
+         top: 0%;
+         filter: brightness(20%);
+      }
+      
+      .text {
+         bottom: 0;
+      }
+   }
+   
+   img {
+      bottom: 0;
+      filter: brightness(100%);
+      left: 0;
+      position: absolute;
+      right: 0px;
+      top: 0px;
+      transition: 0.4s ease-in-out;
+      height: 440px;
+   }
+   
+   .text {
+      bottom: -91%;
+      padding: 15px;
+      position: absolute;
+      transition: 0.4s ease-in-out;
+
+      h2 {
+         color: #fff;
+         display: inline-block;
+         font-weight: 300;
+         margin-bottom: 5px;
+         position: relative;
+      }
+      
+      p {
+         color: #fff;
+         font-weight: 300;
+      }
+   }
+}
+
+#cta3 {
+   background: #202020;
+   box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.2);
+   height: 440px;
+   margin: 20px 20px 20px 20px;
+   overflow: hidden;
+   position: relative;
+   width: 300px;
+   
+   &:hover {
+      
+      img {
+         top: 0%;
+         filter: brightness(20%);
+      }
+      
+      .text {
+         bottom: 0;
+      }
+   }
+   
+   img {
+      bottom: 0;
+      filter: brightness(100%);
+      left: 0;
+      position: absolute;
+      right: 0px;
+      top: 0px;
+      transition: 0.4s ease-in-out;
+      height: 440px;
+   }
+   
+   .text {
+      bottom: -91%;
+      padding: 15px;
+      position: absolute;
+      transition: 0.4s ease-in-out;
+
+      h2 {
+         color: #fff;
+         display: inline-block;
+         font-weight: 300;
+         margin-bottom: 5px;
+         position: relative;
+      }
+      
+      p {
+         color: #fff;
+         font-weight: 300;
+      }
+   }
+}
+
+@media only screen and (max-width: 550px) {
+  .container {
+    grid-template-columns: 1fr;
+    grid-template-rows: 1.2fr 1.2fr 1.2fr ;
+    grid-template-areas:
+      "cta1"
+      "cta2"
+      "cta3";
+  }
 }
