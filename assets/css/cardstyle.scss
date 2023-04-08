@@ -16,8 +16,8 @@
    align-items: center;
    display: grid;
    height: 100vh;
-   grid-template-columns: 0.3fr 0.3fr 0.3fr;
-   grid-template-rows: 0.3fr 0.3fr 0.3fr;
+   grid-template-columns: 1fr 1fr 1fr;
+   grid-template-rows: 1fr 1fr 1fr;
    grid-template-areas:
     "cta1 cta2 cta3";
    grid-gap: 0rem;
