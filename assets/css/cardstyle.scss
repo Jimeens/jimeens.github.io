@@ -29,7 +29,7 @@
    background: #202020;
    box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.2);
    height: 440px;
-//    margin: 20px 20px 20px 20px;
+   margin: 20px 20px 20px 20px;
    grid-area: cta1;
    overflow: hidden;
    position: relative;
@@ -83,7 +83,7 @@
    background: #202020;
    box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.2);
    height: 440px;
-//    margin: 20px 20px 20px 20px;
+   margin: 20px 20px 20px 20px;
    grid-area: cta2;
    overflow: hidden;
    position: relative;
@@ -137,8 +137,116 @@
    background: #202020;
    box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.2);
    height: 440px;
-//    margin: 20px 20px 20px 20px;
+   margin: 20px 20px 20px 20px;
    grid-area: cta3;
+   overflow: hidden;
+   position: relative;
+   width: 300px;
+   
+   &:hover {
+      
+      img {
+         top: 0%;
+         filter: brightness(20%);
+      }
+      
+      .text {
+         bottom: 0;
+      }
+   }
+   
+   img {
+      bottom: 0;
+      filter: brightness(100%);
+      left: 0;
+      position: absolute;
+      right: 0px;
+      top: 0px;
+      transition: 0.4s ease-in-out;
+      height: 440px;
+   }
+   
+   .text {
+      bottom: -91%;
+      padding: 15px;
+      position: absolute;
+      transition: 0.4s ease-in-out;
+
+      h2 {
+         color: #fff;
+         display: inline-block;
+         font-weight: 300;
+         margin-bottom: 5px;
+         position: relative;
+      }
+      
+      p {
+         color: #fff;
+         font-weight: 300;
+      }
+   }
+}
+
+#cta4 {
+   background: #202020;
+   box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.2);
+   height: 440px;
+   margin: 20px 20px 20px 20px;
+   grid-area: cta4;
+   overflow: hidden;
+   position: relative;
+   width: 300px;
+   
+   &:hover {
+      
+      img {
+         top: 0%;
+         filter: brightness(20%);
+      }
+      
+      .text {
+         bottom: 0;
+      }
+   }
+   
+   img {
+      bottom: 0;
+      filter: brightness(100%);
+      left: 0;
+      position: absolute;
+      right: 0px;
+      top: 0px;
+      transition: 0.4s ease-in-out;
+      height: 440px;
+   }
+   
+   .text {
+      bottom: -91%;
+      padding: 15px;
+      position: absolute;
+      transition: 0.4s ease-in-out;
+
+      h2 {
+         color: #fff;
+         display: inline-block;
+         font-weight: 300;
+         margin-bottom: 5px;
+         position: relative;
+      }
+      
+      p {
+         color: #fff;
+         font-weight: 300;
+      }
+   }
+}
+
+#cta5 {
+   background: #202020;
+   box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.2);
+   height: 440px;
+   margin: 20px 20px 20px 20px;
+   grid-area: cta5;
    overflow: hidden;
    position: relative;
    width: 300px;
