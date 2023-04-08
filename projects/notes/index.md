@@ -63,7 +63,7 @@ Here you can find a collection of my study documents, including lecture notes I'
       <p>Here, I will be sharing my solutions for the study guides assignments I had in my <a href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=QFL0606">Fundamentals of Chemistry for Physics</a> course, taught by Ph.D. Gianluca Camillo Azzellini at the University of São Paulo’s <a href="https://www.iq.usp.br/portaliqusp/">Institute of Chemistry</a> (IQUSP) during the first semester of 2023. This course is a really useless course which I have learned nothing... all the people I know agree on this.</p>
     </div>
   </div>
-  <div style="color:#fff"> 
+  <div style="color:#fff; margin-right: 20px"> 
     <ol>
       <li><a href="https://jimeens.github.io/mynotes/Fundamentals%20of%20Chemistry/Study%20Guide%20I.pdf">Homework</a></li>
       <li><a href="https://jimeens.github.io/mynotes/Fundamentals%20of%20Chemistry/Study%20Guide%20II.pdf">Homework</a></li>
