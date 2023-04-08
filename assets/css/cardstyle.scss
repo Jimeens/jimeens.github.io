@@ -14,14 +14,15 @@
 
 .container {
    align-items: center;
+   flex-wrap: wrap;
    justify-content: center;
-   display: grid;
+   display: flex;
    height: 50vh;
-   grid-template-columns: 1fr 1fr 1fr;
-   grid-template-rows: 1fr 1fr 1fr;
-   grid-template-areas:
-    "cta1 cta2 cta3";
-   gap: 20px 20px;
+//    grid-template-columns: 1fr 1fr 1fr;
+//    grid-template-rows: 1fr 1fr 1fr;
+//    grid-template-areas:
+//     "cta1 cta2 cta3";
+//    gap: 20px 20px;
 }
 
 #cta1 {
@@ -186,13 +187,13 @@
    }
 }
 
-@media only screen and (max-width: 550px) {
-  .container {
-    grid-template-columns: 1fr;
-    grid-template-rows: 1.2fr 1.2fr 1.2fr ;
-    grid-template-areas:
-      "cta1"
-      "cta2"
-      "cta3";
-  }
-}
+// @media only screen and (max-width: 550px) {
+//   .container {
+//     grid-template-columns: 1fr;
+//     grid-template-rows: 1.2fr 1.2fr 1.2fr ;
+//     grid-template-areas:
+//       "cta1"
+//       "cta2"
+//       "cta3";
+//   }
+// }
