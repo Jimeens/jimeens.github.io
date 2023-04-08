@@ -5,7 +5,7 @@
    bottom: 0;
    filter: blur(50px);
    left: 0;
-   display: block;
+   display: grid;
    position: absolute;
    right: 0;
    top: 0;
@@ -15,7 +15,7 @@
 
 .container {
    align-items: center;
-   display: grid;
+   display: flex;
    height: 500px;
    justify-content: center;
 }
