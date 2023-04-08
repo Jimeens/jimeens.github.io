@@ -27,11 +27,11 @@
 #cta1 {
    background: #202020;
    box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.2);
-   max-height: 440px;
+   height: 440px;
    margin: 20px 20px 20px 20px;
    overflow: hidden;
    position: relative;
-   max-width: 300px;
+   width: 300px;
    
    &:hover {
       
@@ -51,6 +51,7 @@
       left: 0;
       position: absolute;
       right: 0px;
+      object-fit: contain;
       top: 0px;
       transition: 0.4s ease-in-out;
       height: 440px;
@@ -80,11 +81,11 @@
 #cta2 {
    background: #202020;
    box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.2);
-   max-height: 440px;
+   height: 440px;
    margin: 20px 20px 20px 20px;
    overflow: hidden;
    position: relative;
-   max-width: 300px;
+   width: 300px;
    
    &:hover {
       
@@ -104,6 +105,7 @@
       left: 0;
       position: absolute;
       right: 0px;
+      object-fit: contain;
       top: 0px;
       transition: 0.4s ease-in-out;
       height: 440px;
@@ -133,11 +135,11 @@
 #cta3 {
    background: #202020;
    box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.2);
-   max-height: 440px;
+   height: 440px;
    margin: 20px 20px 20px 20px;
    overflow: hidden;
    position: relative;
-   max-width: 300px;
+   width: 300px;
    
    &:hover {
       
@@ -157,6 +159,7 @@
       left: 0;
       position: absolute;
       right: 0px;
+      object-fit: contain;
       top: 0px;
       transition: 0.4s ease-in-out;
       height: 440px;
@@ -186,11 +189,11 @@
 #cta4 {
    background: #202020;
    box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.2);
-   max-height: 440px;
+   height: 440px;
    margin: 20px 20px 20px 20px;
    overflow: hidden;
    position: relative;
-   max-width: 300px;
+   width: 300px;
    
    &:hover {
       
@@ -210,6 +213,7 @@
       left: 0;
       position: absolute;
       right: 0px;
+      object-fit: contain;
       top: 0px;
       transition: 0.4s ease-in-out;
       height: 440px;
@@ -239,11 +243,11 @@
 #cta5 {
    background: #202020;
    box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.2);
-   max-height: 440px;
+   height: 440px;
    margin: 20px 20px 20px 20px;
    overflow: hidden;
    position: relative;
-   max-width: 300px;
+   width: 300px;
    
    &:hover {
       
@@ -263,6 +267,7 @@
       left: 0;
       position: absolute;
       right: 0px;
+      object-fit: contain;
       top: 0px;
       transition: 0.4s ease-in-out;
       height: 440px;
