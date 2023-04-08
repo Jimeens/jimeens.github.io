@@ -78,7 +78,7 @@ Here you can find a collection of my study documents, including lecture notes I'
   </div>
   <div style="color:#fff"> 
     <ol>
-      <li><a href="">Homework</a></li>
+      <li><a >Homework</a></li>
     </ol> 
   </div>
 </div>
