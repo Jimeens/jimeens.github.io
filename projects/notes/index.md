@@ -20,7 +20,6 @@ Here you can find a collection of my study documents, including lecture notes I'
       <p>Here I will be sharing my solutions for the homework assignments I had in my <a href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4305107">Quantum Field Theory</a> course, taught by Ph.D. Gustavo Alberto Burdman at the University of São Paulo’s <a href="https://portal.if.usp.br/">Institute of Physics</a> (IFUSP) during the first semester of 2023. In this course, the professor Burdman provides all his class notes in <a href="http://fma.if.usp.br/~burdman/QFT1/qft1index.html">Quantum Field Theory I - 1st semester 2023</a>. I consider this notes very good to follow the course, and as a complementary resources, I used Peskin & Schröder, Sredninki, Schwarz, and other books which I think are good books to study QFT. Personally, I consider it to be one of the best courses I have taken in my undergraduate studies.</p>
     </div>
   </div>
-  
   <div id="cta2">
     <img src="https://raw.githubusercontent.com/Jimeens/jimeens.github.io/main/images/Cover%20page%20QMII.png" alt="">
     <div class="text">
@@ -32,7 +31,6 @@ Here you can find a collection of my study documents, including lecture notes I'
       <a href="https://jimeens.github.io/mynotes/Quantum%20Mechanics%20II.pdf">Lecture Notes</a>
     </div>
   </div>
-  
   <div id="cta3">
     <img src="https://raw.githubusercontent.com/Jimeens/jimeens.github.io/main/images/Homework%20-%20cover%20page%20FM.png" alt="">
     <div class="text">
@@ -40,7 +38,6 @@ Here you can find a collection of my study documents, including lecture notes I'
       <p>On this part, I will be sharing my exercise solutions for the homework assignments I had in my <a href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4300324">Fluid Mechanics</a> course, taught by Ph.D. Frédérique Marie Brigitte Sylvie Grassi at the University of São Paulo’s <a href="https://portal.if.usp.br/">Institute of Physics</a> (IFUSP) during the first semester of 2023. Since Professor Grassi has personal notes that I found helpful throughout the semester, I did not take additional lecture notes for this course.</p>
     </div>
   </div>
-  
   <div id="cta4">
     <img src="https://raw.githubusercontent.com/Jimeens/jimeens.github.io/main/images/Homework%20-%20cover%20page%20FQ.png" alt="">
     <div class="text">
@@ -48,7 +45,6 @@ Here you can find a collection of my study documents, including lecture notes I'
       <p>Here, I will be sharing my solutions for the study guides assignments I had in my <a href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=QFL0606">Fundamentals of Chemistry for Physics</a> course, taught by Ph.D. Gianluca Camillo Azzellini at the University of São Paulo’s <a href="https://www.iq.usp.br/portaliqusp/">Institute of Chemistry</a> (IQUSP) during the first semester of 2023. This course is a really useless course which I have learned nothing... all the people I know agree on this.</p>
     </div>
   </div>
-  
   <div id="cta5">
     <img src="https://raw.githubusercontent.com/Jimeens/jimeens.github.io/main/images/Cover%20Page%20EM%20I.png" alt="">
     <div class="text">
