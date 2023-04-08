@@ -31,7 +31,7 @@
 //    margin: 20px 20px 20px 20px;
    grid-area: cta1;
    overflow: hidden;
-   position: absolute;
+   position: relative;
    width: 300px;
    
    &:hover {
@@ -85,7 +85,7 @@
 //    margin: 20px 20px 20px 20px;
    grid-area: cta2;
    overflow: hidden;
-   position: absolute;
+   position: relative;
    width: 300px;
    
    &:hover {
@@ -139,7 +139,7 @@
 //    margin: 20px 20px 20px 20px;
    grid-area: cta3;
    overflow: hidden;
-   position: absolute;
+   position: relative;
    width: 300px;
    
    &:hover {
