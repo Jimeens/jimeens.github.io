@@ -21,7 +21,7 @@
    grid-template-rows: 1fr 1fr 1fr;
    grid-template-areas:
     "cta1 cta2 cta3";
-   grid-gap: 0rem;
+   gap: 20px 20px;
 }
 
 #cta1 {
