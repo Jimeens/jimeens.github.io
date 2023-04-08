@@ -12,7 +12,7 @@ Here you can find a collection of my study documents, including lecture notes I'
 </head>
   
 <div class="container">
-  <div class="cta">
+  <div id="cta1">
     <img src="https://raw.githubusercontent.com/Jimeens/jimeens.github.io/main/images/Homework%201%20-%20cover%20page%20QTF%20I.png" alt="">
     <div class="text">
       <h2>Quantum Field Theory I</h2>
@@ -24,7 +24,7 @@ Here you can find a collection of my study documents, including lecture notes I'
       <li><a>Homework</a></li>
     </ol> 
   </div>
-  <div class="cta">
+  <div id="cta2">
     <img src="https://raw.githubusercontent.com/Jimeens/jimeens.github.io/main/images/Cover%20page%20QMII.png" alt="">
     <div class="text">
       <h2>Quantum Mechanics II</h2>
@@ -40,7 +40,7 @@ Here you can find a collection of my study documents, including lecture notes I'
       <li><a>Homework</a></li>
     </ol> 
   </div>
-  <div class="cta">
+  <div id="cta3">
     <img src="https://raw.githubusercontent.com/Jimeens/jimeens.github.io/main/images/Homework%20-%20cover%20page%20FM.png" alt="">
     <div class="text">
       <h2>Fluid Mechanics</h2>
@@ -56,7 +56,7 @@ Here you can find a collection of my study documents, including lecture notes I'
 </div> 
 
 <div class="container">
-  <div class="cta">
+  <div id="cta1">
     <img src="https://raw.githubusercontent.com/Jimeens/jimeens.github.io/main/images/Homework%20-%20cover%20page%20FQ.png" alt="">
     <div class="text">
       <h2>Fundamentals of Chemistry</h2>
@@ -69,7 +69,7 @@ Here you can find a collection of my study documents, including lecture notes I'
       <li><a href="https://jimeens.github.io/mynotes/Fundamentals%20of%20Chemistry/Study%20Guide%20II.pdf">Homework</a></li>
     </ol> 
   </div>
-  <div class="cta">
+  <div id="cta2">
     <img src="https://raw.githubusercontent.com/Jimeens/jimeens.github.io/main/images/Cover%20Page%20EM%20I.png" alt="">
     <div class="text">
       <h2>Electromagnetism I</h2>
