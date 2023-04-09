@@ -21,7 +21,10 @@
 
 .cta {
    background: #202020;
-   box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.2);
+   box-shadow: -7px -7px 20px 0px #fff9,
+   -4px -4px 5px 0px #fff9,
+   7px 7px 20px 0px #0002,
+   4px 4px 5px 0px #0001;
    height: 440px;
    margin: 20px 0px 20px 0px;
    overflow: hidden;
