@@ -12,7 +12,7 @@ Here you can find a collection of my study documents, including lecture notes Iâ
 </div>
         
 <div class="container">
-  class="cta"
+	
 	<div class="cta">
 	  <img src="https://raw.githubusercontent.com/Jimeens/jimeens.github.io/main/images/Homework%201%20-%20cover%20page%20QTF%20I.png" alt="">
 	  <div class="text">
