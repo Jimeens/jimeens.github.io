@@ -11,7 +11,7 @@ Here you can find a collection of my study documents, including lecture notes Iâ
   <hr>
 </div>
 
-<section>
+<body>
 	<div class="container">
 
 		<div class="cta">
@@ -58,16 +58,16 @@ Here you can find a collection of my study documents, including lecture notes Iâ
 		  </div>
 		</div>
 	</div>
-</section>
+</body>
 
 <div>
   <h2>2022</h2>
   <hr>
 </div>
 
-<section>
+<body>
 	<p> TESTE </p>
-</section>
+</body>
 
 
 
