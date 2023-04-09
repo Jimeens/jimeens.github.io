@@ -70,6 +70,7 @@
       bottom: 0;
       filter: brightness(100%);
       left: 0;
+      border-radius:4px;
       position: absolute;
       right: 0px;
       top: 0px;
@@ -102,10 +103,10 @@
   /* Basic styling and alignment */
   width:300px;
   height:440px;
+  border-radius:4px;
     /* Basic styling and alignment */
   /* For Neumorphism Effect */
   background-color: transparent;
-  box-shadow: -9px -9px 16px rgba(255, 255, 255, 0.2),
-    9px 9px 16px rgba(0, 0, 0, 0.5);
+  box-shadow: 9px 9px 16px rgba(0, 0, 0, 0.5), -9px -9px 16px rgba(255, 255, 255, 0.2);
     /* For Neumorphism Effect */
 }
