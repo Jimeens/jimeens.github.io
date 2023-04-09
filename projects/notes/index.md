@@ -10,9 +10,6 @@ Here you can find a collection of my study documents, including lecture notes Iâ
   <hr>
 </div>
 
-<div class="box">
-	
-</div>
 <div class="container">
 	<div class="box">
 		<div class="cta">
