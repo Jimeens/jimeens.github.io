@@ -12,6 +12,21 @@
    z-index: -1;
 }
 
+.custom-btn {
+     padding: 10px 25px;
+     background: transparent;
+     cursor: pointer;
+     transition: all 0.4s ease;
+     position: relative;
+     display: inline-block;
+   }
+
+.frame {
+   width: 90%;
+   margin: 40px auto;
+   text-align: center;
+}
+
 .container {
    flex-wrap: wrap;
    justify-content: space-around;
@@ -38,27 +53,12 @@
          bottom: 0;
       }
    }
-   
-   .frame {
-     width: 90%;
-     margin: 40px auto;
-     text-align: center;
-   }
 
-   .custom-btn {
-     padding: 10px 25px;
-     background: transparent;
-     cursor: pointer;
-     transition: all 0.3s ease;
-     position: relative;
-     display: inline-block;
-   }
-
-   .btn-1 {
+   .btn {
      border: none;
    }
 
-   .btn-1:hover {
+   .btn:hover {
       box-shadow:
       -7px -7px 20px 0px #fff9,
       -4px -4px 5px 0px #fff9,
