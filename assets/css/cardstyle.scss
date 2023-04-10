@@ -37,6 +37,7 @@
 .cta {
    background: #202020;
    height: 440px;
+   border-radius:14px;
    margin: 0px 0px 20px 0px;
    overflow: hidden;
    position: relative;
@@ -101,12 +102,12 @@
 
 .box{
   /* Basic styling and alignment */
-//   border-radius:14px 14px 14px 14px;
-  width:280px;
-  height:420px;
+  border-radius:14px;
+  width:300px;
+  height:440px;
     /* Basic styling and alignment */
   /* For Neumorphism Effect */
   background-color: transparent;
-  box-shadow: 14px 14px 22px 0px rgba(0, 0, 0, 0.7), -14px -14px 22px 0px rgba(255, 255, 255, 0.08);
+  box-shadow: 7px 7px 11px 0px rgba(0, 0, 0, 0.7), -7px -7px 11px 0px rgba(255, 255, 255, 0.08);
     /* For Neumorphism Effect */
 }
