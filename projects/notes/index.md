@@ -56,7 +56,7 @@ Here you can find a collection of my study documents, including lecture notes I�
 		  <img src="https://raw.githubusercontent.com/Jimeens/jimeens.github.io/main/images/Cover%20Page%20EM%20I.png" alt="">
 		  <div class="text">
 		    <h2>Electromagnetism I</h2>
-		    <p>In these area, I will be sharing my solutions for the recommended homework assignments I had in my <a href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=QFL0606">Electromagnetism I</a> course, taught by Ph.D. Marcelo Martinelli at the University of São Paulo’s <a href="https://portal.if.usp.br/">Institute of Physics</a> (IFUSP) during the first semester of 2023. In my personal opinion, I found the course to be unsatisfactory. The classes failed to capture my interest, the evaluation method did not provide sufficient motivation, and I feel that the course content largely overlapped with material that I had previously covered in my Physics III course with Ph.D. Ivone Freire de Motta e Alboquerque.</p>
+		    <p>I will share my solutions for recommended homework assignments from <a href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=QFL0606">Electromagnetism I</a> course, taught by Ph.D. Marcelo Martinelli at the University of São Paulo’s <a href="https://portal.if.usp.br/">Institute of Physics</a> (IFUSP) during the first semester of 2023. However, I found the course unsatisfactory due to lack of interest, insufficient motivation from the evaluation method, and redundant material compared to my previous Physics III course with Ph.D. Ivone Freire de Motta e Alboquerque.</p>
 		  </div>
 		</div>
 	</div>
