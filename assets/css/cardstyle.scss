@@ -113,22 +113,6 @@
     /* For Neumorphism Effect */
 }
 
-h1 {
-  position: relative;
-  text-align: center;
-  color: #ffffff;
-  font-family: "Cormorant Garamond", serif;
-  bottom: 30px;
-}
-h1:before{
-  position: absolute;
-  content: "";
-  bottom: -15px;
-  width: 100%;
-  height: 2px;
-  background-color: orange;  /*Dependendo da matéria*/ 
-}
-
 .frame{
   display: flex;
   flex-direction: row;
