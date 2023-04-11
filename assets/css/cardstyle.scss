@@ -119,25 +119,20 @@
   background: #202020;
   justify-content: space-around;
   align-items: center;
-  height: 80px;
+  height: 40px;
   width: 280px;
   position: relative;
-  box-shadow:
-   -7px -7px 20px 0px rgba(255, 255, 255, 0.08),
-   -4px -4px 5px 0px rgba(255, 255, 255, 0.08),
-   7px 7px 20px 0px rgba(0, 0, 0, 0.7),
-   4px 4px 5px 0px rgba(0, 0, 0, 0.7),
-   inset 0px 0px 0px 0px rgba(255, 255, 255, 0.08),
-   inset 0px 0px 0px 0px rgba(0, 0, 0, 0.7),
-   inset 0px 0px 0px 0px rgba(255, 255, 255, 0.08),        
-   inset 0px 0px 0px 0px rgba(0, 0, 0, 0.7);
+  box-shadow:  4px 4px 6px 0 rgba(255, 255, 255, 0.08),
+              -4px -4px 6px 0 rgba(0, 0, 0, 0.7), 
+    inset -4px -4px 6px 0 rgba(255, 255, 255, 0.08),
+    inset 4px 4px 6px 0 rgba(0, 0, 0, 0.7);
  transition:box-shadow 0.6s cubic-bezier(.79,.21,.06,.81);
    border-radius: 10px;
 }
 
 .btn{
-  height: 35px;
-  width: 35px;
+  height: 30px;
+  width: 30px;
   flex-wrap: wrap;
   border-radius: 3px;
   background: #202020;
