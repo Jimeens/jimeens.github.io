@@ -1,5 +1,6 @@
 <head>
   <link rel="stylesheet" href="{{ '/assets/css/cardstyle.css?v=' | append: site.github.build_revision | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/homeworks.css?v=' | append: site.github.build_revision | relative_url }}">
 </head>
 
 # Lecture Notes/My solutions
@@ -13,10 +14,16 @@ Here you can find a collection of my study documents, including lecture notes I�
 <div class="container">
 	<div class="box">
 		<div class="cta">
-		  <img src="https://raw.githubusercontent.com/Jimeens/jimeens.github.io/main/images/Homework%201%20-%20cover%20page%20QTF%20I.png" alt="">
-		  <div class="text">
-		    <h2>Quantum Field Theory I</h2>
-		    <p>Here I will be sharing my solutions for the homework assignments I had in my <a href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4305107">Quantum Field Theory</a> course, taught by Ph.D. Gustavo Alberto Burdman at the University of São Paulo’s <a href="https://portal.if.usp.br/">Institute of Physics</a> (IFUSP) during the first semester of 2023. In this course, the professor Burdman provides all his class notes in <a href="http://fma.if.usp.br/~burdman/QFT1/qft1index.html">Quantum Field Theory I - 1st semester 2023</a>. I consider this notes very good to follow the course. Personally, I consider it to be one of the best courses I have taken in my undergraduate studies.</p>
+			<img src="https://raw.githubusercontent.com/Jimeens/jimeens.github.io/main/images/Homework%201%20-%20cover%20page%20QTF%20I.png" alt="">
+			<div class="text">
+				<h2>Quantum Field Theory I</h2>
+				<p>Here I will be sharing my solutions for the homework assignments I had in my <a href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4305107">Quantum Field Theory</a> course, taught by Ph.D. Gustavo Alberto Burdman at the University of São Paulo’s <a href="https://portal.if.usp.br/">Institute of Physics</a> (IFUSP) during the first semester of 2023. In this course, the professor Burdman provides all his class notes in <a href="http://fma.if.usp.br/~burdman/QFT1/qft1index.html">Quantum Field Theory I - 1st semester 2023</a>. I consider this notes very good to follow the course. Personally, I consider it to be one of the best courses I have taken in my undergraduate studies.</p>
+				<h1>Homeworks</h1>
+  				<div class ="frame">
+    					<a href="#" class="btn">
+ 						<b>1</b>
+					</a>
+			  	</div>
 		  </div>
 		</div>
 	</div>
