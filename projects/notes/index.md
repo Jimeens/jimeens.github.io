@@ -49,9 +49,26 @@ Here you can find a collection of my study documents, including lecture notes I�
 		    <p>These are my lecture notes for <a href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4302404">Quantum Mechanics II</a>, taken with Ph.D. Alexandre A. do Passo Suaide at the University of São Paulo's <a href="https://portal.if.usp.br/">Institute of Physics</a> (IFUSP) during the first semester of 2023. They include additional material from various sources, and are a continuation of <a href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4302403">Quantum Mechanics I</a>. These notes are still in development.
 		    <br>
 		    *Co-author*: Felipe Gimenez Souza</p>
-		    <br>
-		    <a href="https://jimeens.github.io/mynotes/Quantum%20Mechanics%20II.pdf">Lecture Notes</a>
-		  </div>
+			  <h2>Homeworks</h2>
+  				<div class ="frame">
+    					<a href="#" class="btn">
+ 						<b>1</b>
+					</a>
+					<a href="#" class="btn">
+ 						<b>2</b>
+					</a>
+					<a href="#" class="btn">
+ 						<b>3</b>
+					</a>
+					<a href="#" class="btn">
+ 						<b>4</b>
+					</a>
+			  	</div>
+			<h2>Lecture Notes</h2>
+				<div class = "frame">
+					<a href="https://jimeens.github.io/mynotes/Quantum%20Mechanics%20II.pdf">L</a>
+			  	</div>
+			</div>
 		</div>
 	</div>
 	<div class="box">
@@ -60,7 +77,19 @@ Here you can find a collection of my study documents, including lecture notes I�
 		  <div class="text">
 		    <h2>Fluid Mechanics</h2>
 		    <p>On this part, I will be sharing my exercise solutions for the homework assignments I had in my <a href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4300324">Fluid Mechanics</a> course, taught by Ph.D. Frédérique Marie Brigitte Sylvie Grassi at the University of São Paulo’s <a href="https://portal.if.usp.br/">Institute of Physics</a> (IFUSP) during the first semester of 2023. Since Professor Grassi has personal notes that I found helpful throughout the semester, I did not take additional lecture notes for this course.</p>
-		  </div>
+			  <h2>Homeworks</h2>
+  				<div class ="frame">
+    					<a href="https://jimeens.github.io/mynotes/Fluid%20Mechanics/Homework%201.pdf" class="btn">
+ 						<b>1</b>
+					</a>
+					<a href="https://jimeens.github.io/mynotes/Fluid%20Mechanics/Homework%202.pdf" class="btn">
+ 						<b>2</b>
+					</a>
+					<a href="https://jimeens.github.io/mynotes/Fluid%20Mechanics/Homework%203.pdf" class="btn">
+ 						<b>3</b>
+					</a>
+			  	</div>
+			</div>
 		</div>
 	</div>
 	<div class="box">
@@ -69,7 +98,16 @@ Here you can find a collection of my study documents, including lecture notes I�
 		  <div class="text">
 		    <h2>Fundamentals of Chemistry</h2>
 		    <p>Here, I will be sharing my solutions for the study guides assignments I had in my <a href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=QFL0606">Fundamentals of Chemistry for Physics</a> course, taught by Ph.D. Gianluca Camillo Azzellini at the University of São Paulo’s <a href="https://www.iq.usp.br/portaliqusp/">Institute of Chemistry</a> (IQUSP) during the first semester of 2023. This course is a really useless course which I have learned nothing... all the people I know agree on this.</p>
-		  </div>
+			<h2>Homeworks</h2>
+  				<div class ="frame">
+    					<a href="https://jimeens.github.io/mynotes/Fundamentals%20of%20Chemistry/Study%20Guide%20I.pdf" class="btn">
+ 						<b>1</b>
+					</a>
+					<a href="https://jimeens.github.io/mynotes/Fundamentals%20of%20Chemistry/Study%20Guide%20II.pdf" class="btn">
+ 						<b>2</b>
+					</a>
+			  	</div>  
+			</div>
 		</div>
 	</div>
 	<div class="box">
@@ -78,7 +116,19 @@ Here you can find a collection of my study documents, including lecture notes I�
 		  <div class="text">
 		    <h2>Electromagnetism I</h2>
 		    <p>I will share my solutions for recommended homework assignments from <a href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=QFL0606">Electromagnetism I</a> course, taught by Ph.D. Marcelo Martinelli at the University of São Paulo’s <a href="https://portal.if.usp.br/">Institute of Physics</a> (IFUSP) during the first semester of 2023. However, I found the course unsatisfactory due to lack of interest, insufficient motivation from the evaluation method, and redundant material compared to my previous Physics III course with Ph.D. Ivone Freire de Motta e Alboquerque.</p>
-		  </div>
+		  	<h2>Homeworks</h2>
+  				<div class ="frame">
+    					<a href="#" class="btn">
+ 						<b>1</b>
+					</a>
+					<a href="#" class="btn">
+ 						<b>2</b>
+					</a>
+					<a href="#" class="btn">
+ 						<b>3</b>
+					</a>
+			  	</div>
+			</div>
 		</div>
 	</div>
 </div>
