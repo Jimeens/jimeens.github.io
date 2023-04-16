@@ -66,7 +66,9 @@ Here you can find a collection of my study documents, including lecture notes Iâ
 			  	</div>	
 			  <br>
 				<div class = "frame">
-					<a href="https://jimeens.github.io/mynotes/Quantum%20Mechanics%20II.pdf" class="btn">L</a>
+					<a href="https://jimeens.github.io/mynotes/Quantum%20Mechanics%20II.pdf" class="btn">
+						<b>L</b>
+					</a>
 			  	</div>
 			</div>
 		</div>
