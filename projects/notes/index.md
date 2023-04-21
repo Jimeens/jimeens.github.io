@@ -120,7 +120,7 @@ Here you can find a collection of my study documents, including lecture notes I�
 		    <p>I will share my solutions for recommended homework assignments from <a href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=QFL0606">Electromagnetism I</a> course, taught by Ph.D. Marcelo Martinelli at the University of São Paulo’s <a href="https://portal.if.usp.br/">Institute of Physics</a> (IFUSP) during the first semester of 2023. However, I found the course unsatisfactory due to lack of interest, insufficient motivation from the evaluation method, and redundant material compared to my previous Physics III course with Ph.D. Ivone Freire de Motta e Alboquerque.</p>
 		  	<h2>Homeworks</h2>
   				<div class ="frame">
-    					<a href="#" class="btn">
+    					<a href="https://jimeens.github.io/mynotes/Electromagnetism%20I/Chapter%202%20-%20Electromagnetism%20I.pdf" class="btn">
  						<b>1</b>
 					</a>
 					<a href="#" class="btn">
