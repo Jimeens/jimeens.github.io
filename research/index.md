@@ -21,7 +21,7 @@ The concept of a category has many applications in mathematics, as well as in ot
 		<div class="cta">
 			<img src="https://raw.githubusercontent.com/Jimeens/jimeens.github.io/main/images/CoverPage%20-%20Chapter%20I.png" alt="">
 			<div class="text">
-				<h2>Preliminaries: Set theory and categories</h2>
+				<h2>Set theory and categories</h2>
 				<p>Here is the study material on functions between sets, which includes definitions such as what injective, surjective, and bijective functions are, what morphisms and epimorphisms are, simple examples, and finally "the first isomorphism theorem".</p>
 				<h2>Sections</h2>
   				<div class ="frame">
