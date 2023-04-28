@@ -3,7 +3,7 @@
 Welcome to my personal website! Here you will find a collection of information and documents related to my studies and career in physics, starting from my early days as an undergraduate student at. Additionally, you will find links to  interesting websites I recommend and pages of researchers I admire.
 
 
-## All of my files
+## All of my files (not yet, but in progress)
 
 <div style="display: inline-block; margin-left= 10px; margin-right= 10px;">
   <a href="https://www.overleaf.com/latex/templates/a-soft-template-for-homework-solutions/gsbwqcqkyyzt"><img src="https://raw.githubusercontent.com/Jimeens/jimeens.github.io/main/images/coverpage_homework_solutions.png" alt="" style="float:left; padding-right:10px; width: 300px"></a>
