@@ -21,8 +21,8 @@ This page is in construction, and hence things might still be a bit messy around
 		<div class="cta">
 			<img src="https://raw.githubusercontent.com/Jimeens/jimeens.github.io/main/images/CoverPage%20-%20Chapter%20I.png" alt="">
 			<div class="text">
-				<h2>Set theory and categories</h2>
-				<p>Here is the study material on functions between sets, which includes definitions such as what injective, surjective, and bijective functions are, what morphisms and epimorphisms are, simple examples, and finally "the first isomorphism theorem".</p>
+				<h2>Chapter I</h2>
+				<p>Here is a collection of study materials covering naive set theory, functions between sets, categories, morphisms, and Universal properties. These notes are based on the book "Algebra: Chapter 0" by Paolo Aluffi, and I have added my own perspective and interpretation of the concepts discussed in the book.</p>
 				<h2>Sections</h2>
   				<div class ="frame">
     					<a href="#" class="btn">
