@@ -51,7 +51,7 @@ Here you can find a collection of my study documents, including lecture notes Iâ
 		    *Co-author*: Felipe Gimenez Souza</p>
 			  <h2>Homeworks/Lecture Notes</h2>
   				<div class ="frame">
-    					<a href="#" class="btn">
+    					<a href="https://jimeens.github.io/mynotes/Quantum%20Mechanics%20II/Homework%201%20-%20QM%20II.pdf" class="btn">
  						<b>1</b>
 					</a>
 					<a href="#" class="btn">
@@ -90,6 +90,9 @@ Here you can find a collection of my study documents, including lecture notes Iâ
 					<a href="https://jimeens.github.io/mynotes/Fluid%20Mechanics/Homework%203.pdf" class="btn">
  						<b>3</b>
 					</a>
+					<a href="https://jimeens.github.io/mynotes/Fluid%20Mechanics/Homework%204.pdf" class="btn">
+ 						<b>4</b>
+					</a>
 			  	</div>
 			</div>
 		</div>
@@ -107,6 +110,9 @@ Here you can find a collection of my study documents, including lecture notes Iâ
 					</a>
 					<a href="https://jimeens.github.io/mynotes/Fundamentals%20of%20Chemistry/Study%20Guide%20II.pdf" class="btn">
  						<b>2</b>
+					</a>
+					<a href="#" class="btn">
+ 						<b>3</b>
 					</a>
 			  	</div>  
 			</div>
